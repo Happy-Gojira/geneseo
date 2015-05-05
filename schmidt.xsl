@@ -7,7 +7,7 @@
         
         <html>
             <head>
-                <link rel="stylesheet" media="screen" href="schmidt.css" />
+                <link rel="stylesheet" media="screen" href="css/schmidt.css" />
                 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
                 <script>
                     $(document).ready(function() {
@@ -22,12 +22,13 @@
                 <div id="wrap">
                     <header>
                         <div id="headerLeft">
-                            <img src="images/drawing64.jpg" alt="Front of the Vance House, 57 Second St., Geneseo, N.Y."/>
+                            <img src="images/Drawing64.jpg" alt="Front of the Vance House, 57 Second St., Geneseo, N.Y."/>
                         </div>
                         
                         <div id="headerRight">
                             <h1>Special Colections at Milne Library</h1>
-                            <h2>The Carl Schmidt Collection</h2>
+                            <h2>The Carl Schmidt Collection in Historic Architecture</h2>
+                            <div><h3><a href="index.html">Click here to search the Schmidt Collection</a></h3></div>
                         </div>
                     </header>
                     <aside class="left">
@@ -221,12 +222,13 @@
        <!-- For Boxes --> 
         <xsl:choose>            
            <xsl:when test="did/container/@type='box'">  
-                <xsl:if test="did/container"><p class="indentc02"><xsl:value-of select="did/container/@label"/>: <xsl:value-of select="did/container"/></p></xsl:if>
+               <div class="item"> 
+               <xsl:if test="did/container"><p class="indentc02"><xsl:value-of select="did/container/@label"/>: <xsl:value-of select="did/container"/></p></xsl:if>
                 <xsl:if test="did/unittitle"><p class="indentc03"><xsl:value-of select="did/unittitle/@label"/>: <xsl:value-of select="did/unittitle"/></p></xsl:if>
                 <xsl:if test="did/abstract"><p class="indentc03"><xsl:value-of select="did/abstract/@label"/>: <xsl:value-of select="did/abstract"/></p></xsl:if>
                 <xsl:if test="scopecontent"><p class="indentc03">Scope and Content: <xsl:value-of select="scopecontent"/></p></xsl:if>
                 <xsl:if test="bioghist"><p class="indentc03">History: <xsl:value-of select="bioghist"/></p></xsl:if>        
-            
+               </div>
                <xsl:apply-templates select="c03"/>
            </xsl:when>
         </xsl:choose>
@@ -309,7 +311,7 @@
     
     <!-- Template for c03-->
     <xsl:template match="c03">
-        <xsl:if test="did/unittitle"><h4 class="indentc03"><xsl:value-of select="did/unittitle"/> <xsl:value-of select="did/unitdate"/></h4></xsl:if>
+        <div class="item"><xsl:if test="did/unittitle"><h4 class="indentc03"><xsl:value-of select="did/unittitle"/> <xsl:value-of select="did/unitdate"/></h4></xsl:if>
         <xsl:if test="did/unitid"><p class="indentc03"><xsl:value-of select="did/unitid/@label"/>: <xsl:value-of select="did/unitid"/> </p></xsl:if>
         <xsl:if test="did/physloc"><p class="indentc03"><xsl:value-of select="did/physloc/@label"/>: <xsl:value-of select="did/physloc"/></p></xsl:if>
         <xsl:if test="did/container"><p class="indentc03"><xsl:value-of select="did/container/@label"/>: <xsl:value-of select="did/container"/></p></xsl:if>
@@ -318,7 +320,7 @@
             <xsl:for-each select="note">
                 <p class="indentc03"><xsl:apply-templates/></p>
             </xsl:for-each>
-        </xsl:if>
+        </xsl:if></div>
     </xsl:template>
     
 </xsl:stylesheet>
