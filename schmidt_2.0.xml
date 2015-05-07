@@ -639,8 +639,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>The Adams House, Creek Rd., <geogname>
-                                    Williamson</geogname></unittitle>
+                            <unittitle label='Subject'>The Adams House, Creek Rd., <geogname>Williamson, NY</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-3</unitid>
                             <physloc label='Location'>Drawer A</physloc>
                         <dao href='images/Drawing3.jpg'/></did>
@@ -648,8 +647,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>The Stinon House, <geogname> Orleans
-                                    Co.</geogname></unittitle>
+                            <unittitle label='Subject'>The Stinon House, <geogname>Orleans County</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-4</unitid>
                             <physloc label='Location'>Drawer A</physloc>
                         <dao href='images/Drawing4.jpg'/></did>
@@ -675,8 +673,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>Estes-Whitman House, <geogname>South Road,
-                                    Scottsville, NY</geogname></unittitle>
+                            <unittitle label='Subject'>Estes-Whitman House, South Road,<geogname>Scottsville, NY</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-7</unitid>
                             <physloc label='Location'>Drawer A</physloc>
                         <dao href='images/Drawing7.jpg'/></did>
@@ -769,7 +766,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>The Sickles House, near <geogname> Scottsville</geogname></unittitle>
+                            <unittitle label='Subject'>The Sickles House, near <geogname>Scottsville, NY</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-18</unitid>
                             <physloc label='Location'>Drawer A</physloc>
                         <dao href='images/Drawing18.jpg'/></did>
@@ -928,7 +925,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>The Adams House, Creek Rd., <geogname>Williamson</geogname></unittitle>
+                            <unittitle label='Subject'>The Adams House, Creek Rd., <geogname>Williamson, NY</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-36</unitid>
                             <physloc label='Location'>Drawer B</physloc>
                         <dao href='images/Drawing36.jpg'/></did>
