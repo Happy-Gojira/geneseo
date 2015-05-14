@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <add>
     <doc>
         <field name="subject">History of Western New York State</field>
@@ -69,7 +69,7 @@
         <field name="container">Box: 13</field>
     </doc>
     <doc>
-        <field name="subject">Colonial and Post Colonial Destails</field>
+        <field name="subject">Colonial and Post Colonial Details</field>
         <field name="content">Notes and Manuscript</field>
         <field name="container">Box: 14</field>
         <field name="note">Supplemental Drawings in Drawer no. 3, Map Case</field>
@@ -116,7 +116,7 @@
         <field name="container">Box: 22</field>
     </doc>
     <doc>
-        <field name="subject">Greek Revivial</field>
+        <field name="subject">Greek Revival</field>
         <field name="content">Part I through VI--Notes and Manuscript</field>
         <field name="container">Box: 23</field>
     </doc>
@@ -140,7 +140,7 @@
         <field name="subject">The Octagon Fad</field>
         <field name="content">Notes and Manuscript</field>
         <field name="container">Box: 27</field>
-        <field name="note">Supplemenat Drawings in Drawer no. 8, Map Case</field>
+        <field name="note">Supplement Drawings in Drawer no. 8, Map Case</field>
     </doc>
     <doc>
         <field name="subject">The Octagon Fad</field>
@@ -181,27 +181,27 @@
         <field name="container">Box: 34</field>
     </doc>
     <doc>
-        <field name="subject">Histoical Architecture in the Eastern United States</field>
+        <field name="subject">Historical Architecture in the Eastern United States</field>
         <field name="content">Notes and Drawings</field>
         <field name="container">Box: 35</field>
     </doc>
     <doc>
-        <field name="subject">Histoical Architecture in the Eastern United States</field>
+        <field name="subject">Historical Architecture in the Eastern United States</field>
         <field name="content">Slides</field>
         <field name="container">Box: 36</field>
     </doc>
     <doc>
-        <field name="subject">Histoical Architecture in the Eastern United States</field>
+        <field name="subject">Historical Architecture in the Eastern United States</field>
         <field name="content">Slides and Photographs</field>
         <field name="container">Box: 37</field>
     </doc>
     <doc>
-        <field name="subject">Histoical Architecture in the Southern United States</field>
+        <field name="subject">Historical Architecture in the Southern United States</field>
         <field name="content">Notes and Slides</field>
         <field name="container">Box: 38</field>
     </doc>
     <doc>
-        <field name="subject">Histoical Architecture in the Western United States</field>
+        <field name="subject">Historical Architecture in the Western United States</field>
         <field name="content">Slides</field>
         <field name="container">Box: 39</field>
     </doc>
@@ -345,7 +345,7 @@
         <field name="container">Box: 66</field>
     </doc>
     <doc>
-        <field name="subject">More About Octgons</field>
+        <field name="subject">More About Octagons</field>
         <field name="content">Manuscript</field>
         <field name="container">Box: 67</field>
     </doc>
@@ -373,16 +373,16 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> The Adams House, Creek Rd., Williamson</field>
-        <field name="geolocation"> Williamson</field>
+        <field name="subject"> The Adams House, Creek Rd., Williamson, NY</field>
+        <field name="geolocation">Williamson, NY</field>
         <field name="label">SH-2D-SCHMIDT-3</field>
         <field name="location">Drawer A</field>
         <field name="url">images/Drawing3.jpg</field>
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> The Stinon House, Orleans Co.</field>
-        <field name="geolocation"> Orleans Co.</field>
+        <field name="subject"> The Stinon House, Orleans County</field>
+        <field name="geolocation">Orleans County</field>
         <field name="label">SH-2D-SCHMIDT-4</field>
         <field name="location">Drawer A</field>
         <field name="url">images/Drawing4.jpg</field>
@@ -405,8 +405,8 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> Estes-Whitman House, South Road, Scottsville, NY</field>
-        <field name="geolocation">South Road, Scottsville, NY</field>
+        <field name="subject"> Estes-Whitman House, South Road,Scottsville, NY</field>
+        <field name="geolocation">Scottsville, NY</field>
         <field name="label">SH-2D-SCHMIDT-7</field>
         <field name="location">Drawer A</field>
         <field name="url">images/Drawing7.jpg</field>
@@ -437,7 +437,7 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> Shadbolt-krenzer House or Darius Shadbold House, Quaker Rd.,
+        <field name="subject"> Shadbolt-Krenzer House or Darius Shadbold House, Quaker Rd.,
             Scottsville, NY </field>
         <field name="geolocation">Scottsville, NY</field>
         <field name="label">SH-2D-SCHMIDT-11</field>
@@ -469,7 +469,7 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> The Bullard-lattin House, 3178 Gaines Basin Rd., Gaines, NY</field>
+        <field name="subject"> The Bullard-Lattin House, 3178 Gaines Basin Rd., Gaines, NY</field>
         <field name="geolocation">Gaines, NY</field>
         <field name="label">SH-2D-SCHMIDT-15</field>
         <field name="location">Drawer A</field>
@@ -493,8 +493,8 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> The Sickles House, near Scottsville</field>
-        <field name="geolocation"> Scottsville</field>
+        <field name="subject"> The Sickles House, near Scottsville, NY</field>
+        <field name="geolocation">Scottsville, NY</field>
         <field name="label">SH-2D-SCHMIDT-18</field>
         <field name="location">Drawer A</field>
         <field name="url">images/Drawing18.jpg</field>
@@ -523,7 +523,7 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> Green-longfellow-Devoe House (Front Entrance), Rush, NY</field>
+        <field name="subject"> Green-Longfellow-Devoe House (Front Entrance), Rush, NY</field>
         <field name="geolocation">Rush, NY</field>
         <field name="label">SH-2D-SCHMIDT-22</field>
         <field name="location">Drawer A</field>
@@ -635,8 +635,8 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> The Adams House, Creek Rd., Williamson</field>
-        <field name="geolocation">Williamson</field>
+        <field name="subject"> The Adams House, Creek Rd., Williamson, NY</field>
+        <field name="geolocation">Williamson, NY</field>
         <field name="label">SH-2D-SCHMIDT-36</field>
         <field name="location">Drawer B</field>
         <field name="url">images/Drawing36.jpg</field>
@@ -658,7 +658,7 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> 12 Monrow Ave., Pittsford, NY</field>
+        <field name="subject"> 12 Monroe Ave., Pittsford, NY</field>
         <field name="geolocation">Pittsford, NY</field>
         <field name="label">SH-2D-SCHMIDT-39</field>
         <field name="location">Drawer B</field>
@@ -811,7 +811,7 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> The Riker House, Knuckerbacker Rd.</field>
+        <field name="subject"> The Riker House, Knickerbocker Rd.</field>
         <field name="label">SH-2D-SCHMIDT-59</field>
         <field name="location">Drawer C</field>
         <field name="url">images/Drawing59.jpg</field>
@@ -1108,8 +1108,9 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> Doorway between Greigsville and Leichester, NY</field>
-        <field name="geolocation">Greigsville and Leichester, NY</field>
+        <field name="subject"> Doorway between Greigsville, NY and Leichester, NY</field>
+        <field name="geolocation">Greigsville, NY</field>
+        <field name="geolocation">Leichester, NY</field>
         <field name="label">SH-2D-SCHMIDT-97</field>
         <field name="location">Drawer E</field>
         <field name="url">images/Drawing97.jpg</field>
@@ -1203,7 +1204,7 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> Thompson-Belink_miller House, Rush, NY</field>
+        <field name="subject"> Thompson-Belink-Miller House, Rush, NY</field>
         <field name="geolocation">Rush, NY</field>
         <field name="label">SH-2D-SCHMIDT-109</field>
         <field name="location">Drawer E</field>
@@ -1262,7 +1263,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Architectural Mouldings</field>
         <field name="subject"> Some Typical Dutch colonial Mouldings from New Jersey, Long Island
-            and the Vinicity of New York City</field>
+            and the vicinity of New York City</field>
         <field name="geolocation">New Jersey</field>
         <field name="geolocation">Long Island</field>
         <field name="geolocation">New York City</field>
@@ -1280,9 +1281,9 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Architectural Mouldings</field>
-        <field name="subject"> Typical Mouldings from the South From MaryLand, Delaware, Virginia,
+        <field name="subject"> Typical Mouldings from the South From Maryland, Delaware, Virginia,
             and North Carolina</field>
-        <field name="geolocation">MaryLand</field>
+        <field name="geolocation">Maryland</field>
         <field name="geolocation">Delaware</field>
         <field name="geolocation">Virginia</field>
         <field name="geolocation">North Carolina</field>
@@ -1292,8 +1293,8 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Architectural Mouldings</field>
-        <field name="subject"> Profiles of Mouldings from Canaandaigua, NY</field>
-        <field name="geolocation">Canaandaigua, NY</field>
+        <field name="subject"> Profiles of Mouldings from Canandaigua, NY</field>
+        <field name="geolocation">Canandaigua, NY</field>
         <field name="label">Plate 9</field>
         <field name="location">Drawer 1</field>
     </doc>
@@ -1383,7 +1384,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Architectural Mouldings</field>
-        <field name="subject"> Interor Details from the Norris House on Winton Road, Rochester,
+        <field name="subject"> Interior Details from the Norris House on Winton Road, Rochester,
             NY</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="label">Plate 18</field>
@@ -1392,7 +1393,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Architectural Mouldings</field>
-        <field name="subject"> Entrance to the Ward House on Colleve Ave Rochester, NY</field>
+        <field name="subject"> Entrance to the Ward House on College Ave Rochester, NY</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="label">Plate 19</field>
         <field name="location">Drawer 1</field>
@@ -1552,7 +1553,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Architectural Mouldings</field>
-        <field name="subject"> Entrance Door to an Old avern on the Road from Canandaigua, NY to
+        <field name="subject"> Entrance Door to an Old Tavern on the Road from Canandaigua, NY to
             East Bloomfield, NY</field>
         <field name="geolocation">Canandaigua, NY</field>
         <field name="geolocation">East Bloomfield, NY</field>
@@ -1782,7 +1783,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Architectural Mouldings</field>
-        <field name="subject"> Library in the Hervery Ely House, Now the D.A.R. Cor. Livingston Park
+        <field name="subject"> Library in the Hervey Ely House, Now the D.A.R. Cor. Livingston Park
             and Troup St.,Rochester, NY Built in the late 1820's</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="label">Plate 63</field>
@@ -1792,7 +1793,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Architectural Mouldings</field>
-        <field name="subject"> Library Details in the Hervery Ely House, Now the D.A.R. Cor.
+        <field name="subject"> Library Details in the Hervey Ely House, Now the D.A.R. Cor.
             Livingston Park and Troup St.,Rochester, NY Built in the late 1820's</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="label">Plate 64</field>
@@ -1943,7 +1944,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Cornice Details Jonathan Child House S. Washinton St. Rochester,
+        <field name="subject"> Cornice Details Jonathan Child House S. Washington St. Rochester,
             NY</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="label">Plate 3</field>
@@ -1974,7 +1975,7 @@
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
         <field name="subject"> Elevation of South end of Parlor, Jonathan Child House South
-            Washinton St. Rochester, NY</field>
+            Washington St. Rochester, NY</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="label">Plate 6</field>
         <field name="location">Drawer 2</field>
@@ -2023,9 +2024,9 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Restored Entrance to the McAmmond Tenney melville House 25 Rochester
-            St Scotsville, NY</field>
-        <field name="geolocation">Scotsville, NY</field>
+        <field name="subject"> Restored Entrance to the McAmmond Tenney Melville House 25 Rochester
+            St Scottsville, NY</field>
+        <field name="geolocation">Scottsville, NY</field>
         <field name="label">Plate 11</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -2328,7 +2329,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> South Side Elevation Davis Hazon Cobblestone North Greece Rd., near
+        <field name="subject"> South Side Elevation Davis Hazen Cobblestone North Greece Rd., near
             Rochester, NY</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="label">Plate 47</field>
@@ -2338,7 +2339,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> First Floor Plan Davis Haxon Cobblestone North Greece Rd., Rochester,
+        <field name="subject"> First Floor Plan Davis Hazen Cobblestone North Greece Rd., Rochester,
             NY</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="label">Plate 48</field>
@@ -2536,7 +2537,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Interior Elevatin of Front Entrance Foster Ewell House Originally
+        <field name="subject"> Interior Elevation of Front Entrance Foster Ewell House Originally
             located on Roanoke RdPavilion, NY, now located in the Museum of the Genesee Country
             Mumford, NY</field>
         <field name="geolocation">Pavilion, NY</field>
@@ -2699,7 +2700,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> North &amp; East Side Elevation MaCarthur House Originally located on
+        <field name="subject"> North &amp; East Side Elevation MacArthur House Originally located on
             York Rd., West of York, NY now in the Museum of the Genesee Country Mumford, NY</field>
         <field name="geolocation">Mumford, NY</field>
         <field name="label">Plate 81</field>
@@ -2709,7 +2710,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> First Floor Plan MaCarthur House Originally located on York Rd., West
+        <field name="subject"> First Floor Plan MacArthur House Originally located on York Rd., West
             of York, NY now in the Museum of the Genesee Country Mumford, NY</field>
         <field name="geolocation">Mumford, NY</field>
         <field name="label">Plate 82</field>
@@ -2719,7 +2720,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Cornice MaCarthur House Originally located on York Rd., West of York,
+        <field name="subject"> Cornice MacArthur House Originally located on York Rd., West of York,
             NY now in the Museum of the Genesee Country Mumford, NY</field>
         <field name="geolocation">Mumford, NY</field>
         <field name="label">Plate 83</field>
@@ -2729,7 +2730,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Entrance to MaCarthur House Originally located on York Rd., West of
+        <field name="subject"> Entrance to MacArthur House Originally located on York Rd., West of
             York, NY now in the Museum of the Genesee Country Mumford, NY</field>
         <field name="geolocation">Mumford, NY</field>
         <field name="label">Plate 84</field>
@@ -2739,7 +2740,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Mantel in MaCarthur House Originally located on York Rd., West of
+        <field name="subject"> Mantel in MacArthur House Originally located on York Rd., West of
             York, NY now in the Museum of the Genesee Country Mumford, NY</field>
         <field name="geolocation">Mumford, NY</field>
         <field name="label">Plate 85</field>
@@ -2749,7 +2750,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Windows and Doors in Parlor from MaCarthur House Originally located
+        <field name="subject"> Windows and Doors in Parlor from MacArthur House Originally located
             on York Rd., West of York, NY now in the Museum of the Genesee Country Mumford,
             NY</field>
         <field name="geolocation">Mumford, NY</field>
@@ -2760,7 +2761,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Mantel &amp; Window in the MaCarthur House Originally located on York
+        <field name="subject"> Mantel &amp; Window in the MacArthur House Originally located on York
             Rd., West of York, NY now in the Museum of the Genesee Country Mumford, NY</field>
         <field name="geolocation">Mumford, NY</field>
         <field name="label">Plate 87</field>
@@ -2823,7 +2824,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Plan &amp; Front Elevation Delancy Stow's Insurance Office From
+        <field name="subject"> Plan &amp; Front Elevation Delancey Stow's Insurance Office From
             Clyde, NY now located in the Museum of the Genesee Country Mumford, NY</field>
         <field name="geolocation">Clyde, NY</field>
         <field name="geolocation">Mumford, NY</field>
@@ -2834,7 +2835,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Delancy Stow's Insurance Office From Clyde, NY now located in the
+        <field name="subject"> Delancey Stow's Insurance Office From Clyde, NY now located in the
             Museum of the Genesee Country Mumford, NY</field>
         <field name="geolocation">Clyde, NY</field>
         <field name="geolocation">Mumford, NY</field>
@@ -2878,8 +2879,8 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Floor Pland &amp; Side Elevation Shop From Roseboom, NY now located
-            in the Museum of the Genesee Country Mumford, NY</field>
+        <field name="subject"> Floor Plan &amp; Side Elevation Shop From Roseboom, NY now located in
+            the Museum of the Genesee Country Mumford, NY</field>
         <field name="geolocation">Roseboom, NY</field>
         <field name="geolocation">Mumford, NY</field>
         <field name="label">Plate 98</field>
@@ -2993,7 +2994,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Stecnils in the Gould Drake House Wayne Co., NY</field>
+        <field name="subject"> Stencils in the Gould Drake House Wayne Co., NY</field>
         <field name="geolocation">Wayne Co., NY</field>
         <field name="label">Plate 110</field>
         <field name="location">Drawer 2</field>
@@ -3094,7 +3095,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Exterior Entrances to Cellars &amp; How to Move a StoneWall</field>
+        <field name="subject"> Exterior Entrances to Cellars &amp; How to Move a Stone Wall</field>
         <field name="label">Plate 120</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -3212,7 +3213,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Cobblestone Masonry</field>
-        <field name="subject"> Robison Rupp House Robinson Rd., Niagara County, NY &amp; Bradley
+        <field name="subject"> Robinson Rupp House Robinson Rd., Niagara County, NY &amp; Bradley
             Miller House Niagara County, NY</field>
         <field name="geolocation">Niagara County, NY</field>
         <field name="geolocation">Niagara County, NY</field>
@@ -3245,10 +3246,10 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Cobblestone Masonry</field>
-        <field name="subject"> Johnson burchfield House Morton, NY &amp; Lynn Cliff House Orlean
-            County</field>
+        <field name="subject"> Johnson Burchfield House Morton, NY &amp; Lynn Cliff House Orlean
+            County, NY</field>
         <field name="geolocation">Morton, NY</field>
-        <field name="geolocation">Orlean County</field>
+        <field name="geolocation">Orlean County, NY</field>
         <field name="label">Plate 14</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -3297,7 +3298,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Cobblestone Masonry</field>
-        <field name="subject"> Church Middlepoint, NY &amp; The taylor House on Niagara Falls Rd.,
+        <field name="subject"> Church Middlepoint, NY &amp; The Taylor House on Niagara Falls Rd.,
             Niagara County, NY</field>
         <field name="geolocation">Middlepoint, NY</field>
         <field name="geolocation">Niagara County, NY</field>
@@ -4068,7 +4069,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Colonial and Postcolonial Details</field>
-        <field name="subject"> Entrance to "Lorenzo", bulit by John Lincklaen Cazenovia, NY erected
+        <field name="subject"> Entrance to "Lorenzo", built by John Lincklaen Cazenovia, NY erected
             in 1807</field>
         <field name="geolocation">Cazenovia, NY</field>
         <field name="label">Plate 27</field>
@@ -4077,7 +4078,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Colonial and Postcolonial Details</field>
-        <field name="subject"> Entrance to "Lorenzo", bulit by John Lincklaen Cazenovia, NY erected
+        <field name="subject"> Entrance to "Lorenzo", built by John Lincklaen Cazenovia, NY erected
             in 1807</field>
         <field name="geolocation">Cazenovia, NY</field>
         <field name="label">Plate 28</field>
@@ -4144,7 +4145,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Colonial and Postcolonial Details</field>
-        <field name="subject"> Entrance to the Pettibon Hackett House Elba, NY</field>
+        <field name="subject"> Entrance to the Pettibone Hackett House Elba, NY</field>
         <field name="geolocation">Elba, NY</field>
         <field name="label">Plate 36</field>
         <field name="location">Drawer 3</field>
@@ -4276,7 +4277,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Colonial and Postcolonial Details</field>
-        <field name="subject"> Entrance to the Exchange Hotel, now te Community Building Mumford,
+        <field name="subject"> Entrance to the Exchange Hotel, now the Community Building Mumford,
             NY</field>
         <field name="geolocation">Mumford, NY</field>
         <field name="label">Plate 52</field>
@@ -4690,9 +4691,9 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Colonial and Postcolonial Details</field>
         <field name="subject"> Stairhall in the Thompson Tavern Riga, NY built in 1808, now located
-            in the Museum of the Genesee Country Mumford, Ny</field>
+            in the Museum of the Genesee Country Mumford, NY</field>
         <field name="geolocation">Riga, NY</field>
-        <field name="geolocation">Mumford, Ny</field>
+        <field name="geolocation">Mumford, NY</field>
         <field name="label">Plate 101</field>
         <field name="location">Drawer 3</field>
         <field name="note">Duplicate plate number but different title and drawing</field>
@@ -4701,9 +4702,9 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Colonial and Postcolonial Details</field>
         <field name="subject"> Mantels from Joseph Thompson's Tavern Riga, NY now located in the
-            Museum of the Genesee Country Mumford, Ny</field>
+            Museum of the Genesee Country Mumford, NY</field>
         <field name="geolocation">Riga, NY</field>
-        <field name="geolocation">Mumford, Ny</field>
+        <field name="geolocation">Mumford, NY</field>
         <field name="label"/>
         <field name="location">Drawer 3</field>
     </doc>
@@ -4744,7 +4745,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Colonial and Postcolonial Details</field>
-        <field name="subject"> Sull Size Details Typcial Philadelphia Mouldings Philadelphia,
+        <field name="subject"> Full Size Details Typical Philadelphia Mouldings Philadelphia,
             PA</field>
         <field name="geolocation">Philadelphia, PA</field>
         <field name="label">Plate 10</field>
@@ -4768,7 +4769,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Entrances &amp; Fences, Gates and Gardens</field>
-        <field name="subject"> Arbot in Garden Erickson Perkins House Rochester, NY</field>
+        <field name="subject"> Arbor in Garden Erickson Perkins House Rochester, NY</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="label">Plate 2</field>
         <field name="location">Drawer 4</field>
@@ -4800,7 +4801,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Entrances &amp; Fences, Gates and Gardens</field>
-        <field name="subject"> Fence in Fron of the Erickson Perkins House, now the Genesee valley
+        <field name="subject"> Fence in Front of the Erickson Perkins House, now the Genesee valley
             Club Rochester, NY</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="label">Plate 6</field>
@@ -4906,7 +4907,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Entrances &amp; Fences, Gates and Gardens</field>
         <field name="subject"> Fragment of Fence at the Graney Hamilton House Leroy, NY &amp;
-            Fregment of Fence Mt. Reed Blvd., Greece, NY</field>
+            Fragment of Fence Mt. Reed Blvd., Greece, NY</field>
         <field name="geolocation">Leroy, NY</field>
         <field name="geolocation">Greece, NY</field>
         <field name="label">Plate 18</field>
@@ -5057,7 +5058,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Entrances &amp; Fences, Gates and Gardens</field>
-        <field name="subject"> Fence in front of teh Harris Hufford Residence Patriot, IN</field>
+        <field name="subject"> Fence in front of the Harris Hufford Residence Patriot, IN</field>
         <field name="geolocation">Patriot, IN</field>
         <field name="label">Plate 36</field>
         <field name="location">Drawer 4</field>
@@ -5106,7 +5107,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Entrances &amp; Fences, Gates and Gardens</field>
-        <field name="subject"> Fence in front of the LLoyd Brinton House Falls Village, CT</field>
+        <field name="subject"> Fence in front of the Lloyd Brinton House Falls Village, CT</field>
         <field name="geolocation">Falls Village, CT</field>
         <field name="label">Plate 42</field>
         <field name="location">Drawer 4</field>
@@ -5141,15 +5142,16 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Entrances &amp; Fences, Gates and Gardens</field>
-        <field name="subject"> Fence in front of the Topping Reeves House Litchfield, Ct</field>
-        <field name="geolocation">Litchfield, Ct</field>
+        <field name="subject"> Fence in front of the Topping Reeves House Litchfield, CT</field>
+        <field name="geolocation">Litchfield, CT</field>
         <field name="label">Plate 46</field>
         <field name="location">Drawer 4</field>
     </doc>
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Entrances &amp; Fences, Gates and Gardens</field>
-        <field name="subject"> Yard Elevation of Fence at Miss Poter's School Farmington, CT</field>
+        <field name="subject"> Yard Elevation of Fence at Miss Porter's School Farmington,
+            CT</field>
         <field name="geolocation">Farmington, CT</field>
         <field name="label">Plate 47</field>
         <field name="location">Drawer 4</field>
@@ -5158,7 +5160,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Entrances &amp; Fences, Gates and Gardens</field>
-        <field name="subject"> Fence at Miss Poter's School Farmington, CT</field>
+        <field name="subject"> Fence at Miss Porter's School Farmington, CT</field>
         <field name="geolocation">Farmington, CT</field>
         <field name="label">Plate 48</field>
         <field name="location">Drawer 4</field>
@@ -5207,7 +5209,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Entrances &amp; Fences, Gates and Gardens</field>
-        <field name="subject"> Grape Aror in Garden Ropes Memorial Salem, MA</field>
+        <field name="subject"> Grape Arbor in Garden Ropes Memorial Salem, MA</field>
         <field name="geolocation">Salem, MA</field>
         <field name="label">Plate 54</field>
         <field name="location">Drawer 4</field>
@@ -5265,8 +5267,8 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Entrances &amp; Fences, Gates and Gardens</field>
-        <field name="subject"> Fence on Route 1 Three Miles South of Hamptonm NH</field>
-        <field name="geolocation">Hamptonm NH</field>
+        <field name="subject"> Fence on Route 1 Three Miles South of Hampton NH</field>
+        <field name="geolocation">Hampton NH</field>
         <field name="label">Plate 61</field>
         <field name="location">Drawer 4</field>
     </doc>
@@ -5523,7 +5525,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Greek Revival Architecture</field>
         <field name="subject"> Plates: Misc: Greek Revival Architecture</field>
-        <field name="subject"> The Bicknel House Spting St.</field>
+        <field name="subject"> The Bicknel House Spring St.</field>
         <field name="label">Page 27</field>
         <field name="location">Drawer 6</field>
     </doc>
@@ -5802,8 +5804,8 @@
         <field name="subject"> Greek Revival Details</field>
         <field name="subject"> Plates: Greek Revival Details</field>
         <field name="subject"> Silas O. Smith House, East Ave., Corner of Sibley Place Rochester,
-            Ny</field>
-        <field name="geolocation">Rochester, Ny</field>
+            NY</field>
+        <field name="geolocation">Rochester, NY</field>
         <field name="label">Plate 18</field>
         <field name="location">Drawer 7</field>
     </doc>
@@ -6021,7 +6023,7 @@
         <field name="subject"> Greek Revival Details</field>
         <field name="subject"> Plates: Greek Revival Details</field>
         <field name="subject"> Entrance to the Seaman House Ridge Rd., Clarkson, NY &amp; Side
-            Entrance to the Norman Thator House South Street Rd., Leroy, NY</field>
+            Entrance to the Norman Thater House South Street Rd., Leroy, NY</field>
         <field name="geolocation">Clarkson, NY</field>
         <field name="geolocation">Leroy, NY</field>
         <field name="label">Plate 40</field>
@@ -6154,8 +6156,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Greek Revival Details</field>
         <field name="subject"> Plates: Greek Revival Details</field>
-        <field name="subject"> Front Eleveation of the Edson Skivington House Scottsville,
-            NY</field>
+        <field name="subject"> Front Elevation of the Edson Skivington House Scottsville, NY</field>
         <field name="geolocation">Scottsville, NY</field>
         <field name="label">Plate 54</field>
         <field name="location">Drawer 7</field>
@@ -6322,7 +6323,7 @@
         <field name="subject"> Greek Revival Details</field>
         <field name="subject"> Plates: Greek Revival Details</field>
         <field name="subject"> Elevation of South Parlor Wall, the Harmon Hammond House at North
-            Rd., &amp; Riga Mumford Rd., twon of Wheatland, NY</field>
+            Rd., &amp; Riga Mumford Rd., town of Wheatland, NY</field>
         <field name="geolocation">Wheatland, NY</field>
         <field name="label">Plate 71</field>
         <field name="location">Drawer 7</field>
@@ -6332,7 +6333,7 @@
         <field name="subject"> Greek Revival Details</field>
         <field name="subject"> Plates: Greek Revival Details</field>
         <field name="subject"> Details from the Parlor, Harmon Hammond House at North Rd., &amp;
-            Riga Mumford Rd., twon of Wheatland, NY</field>
+            Riga Mumford Rd., town of Wheatland, NY</field>
         <field name="geolocation">Wheatland, NY</field>
         <field name="label">Plate 72</field>
         <field name="location">Drawer 7</field>
@@ -6342,7 +6343,7 @@
         <field name="subject"> Greek Revival Details</field>
         <field name="subject"> Plates: Greek Revival Details</field>
         <field name="subject"> Elevation of Parlor Doors, Harmon Hammond House at North Rd., &amp;
-            Riga Mumford Rd., twon of Wheatland, NY</field>
+            Riga Mumford Rd., town of Wheatland, NY</field>
         <field name="geolocation">Wheatland, NY</field>
         <field name="label">Plate 73</field>
         <field name="location">Drawer 7</field>
@@ -6840,7 +6841,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Jonathan Child and His Houses &amp; Octagon Fad</field>
         <field name="subject"> The Octagon Fad</field>
-        <field name="subject"> Yougnlove Wood House Hammondsport, NY built by Timothy Younglove in
+        <field name="subject"> Younglove Wood House Hammondsport, NY built by Timothy Younglove in
             1859</field>
         <field name="geolocation">Hammondsport, NY</field>
         <field name="label">Page 193</field>
@@ -7058,7 +7059,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Jonathan Child and His Houses &amp; Octagon Fad</field>
         <field name="subject"> Jonathan Child and His House</field>
-        <field name="subject"> Choragic Monument of Lysicrates at Athen???</field>
+        <field name="subject"> Choragic Monument of Lysicrates at Athen</field>
         <field name="label">No Label</field>
         <field name="location">Drawer 8</field>
     </doc>
@@ -7074,7 +7075,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Jonathan Child and His Houses &amp; Octagon Fad</field>
         <field name="subject"> Jonathan Child and His House</field>
-        <field name="subject"> Sprial Staircase, The Jonathan Child House S. Washington St.,
+        <field name="subject"> Spiral Staircase, The Jonathan Child House S. Washington St.,
             Rochester, NY</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="label">No Label</field>
@@ -7208,7 +7209,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Victorian Era </field>
-        <field name="subject"> North Porch Rhomas Tremer House Lima, NY</field>
+        <field name="subject"> North Porch Thomas Tremer House Lima, NY</field>
         <field name="geolocation">Lima, NY</field>
         <field name="label">Plate 3</field>
         <field name="location">Drawer 9</field>
@@ -7247,7 +7248,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Victorian Era </field>
-        <field name="subject"> Bay Window Thamas Tremer House Lima, NY</field>
+        <field name="subject"> Bay Window Thomas Tremer House Lima, NY</field>
         <field name="geolocation">Lima, NY</field>
         <field name="label">Plate 8</field>
         <field name="location">Drawer 9</field>
@@ -7289,7 +7290,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Victorian Era </field>
-        <field name="subject"> Mantel in Childrens Bedroom Afton Villa West Feliciance Parish,
+        <field name="subject"> Mantel in Children’s Bedroom Afton Villa West Feliciance Parish,
             LA</field>
         <field name="geolocation">West Feliciance Parish, LA</field>
         <field name="label">Plate 13</field>
@@ -7517,7 +7518,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Victorian Era </field>
-        <field name="subject"> Details of th Entrance to Morgan Lovria House Main St., Leroy,
+        <field name="subject"> Details of the Entrance to Morgan Lovria House Main St., Leroy,
             NY</field>
         <field name="geolocation">Leroy, NY</field>
         <field name="label">Plate 39</field>
@@ -7663,9 +7664,9 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Victorian Era </field>
-        <field name="subject"> Interior Doors from Rochester, Ny Plymouth Ave., &amp; Genesee St.,
+        <field name="subject"> Interior Doors from Rochester, NY Plymouth Ave., &amp; Genesee St.,
             both houses have been demolished</field>
-        <field name="geolocation">Rochester, Ny</field>
+        <field name="geolocation">Rochester, NY</field>
         <field name="label">Plate 56</field>
         <field name="location">Drawer 9</field>
     </doc>
@@ -7690,7 +7691,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Victorian Era </field>
-        <field name="subject"> Detail fo Conservatory Southworth Porter house 1883 Penfield Rd.,
+        <field name="subject"> Detail of Conservatory Southworth Porter house 1883 Penfield Rd.,
             Penfield, NY</field>
         <field name="geolocation">Penfield, NY</field>
         <field name="label">Plate 59</field>
