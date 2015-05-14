@@ -187,7 +187,7 @@
         </c02>
         <c02>
           <did>
-            <unittitle label="Subject">Colonial and Post Colonial Destails</unittitle>
+            <unittitle label="Subject">Colonial and Post Colonial Details</unittitle>
             <abstract label="Content">Notes and Manuscript</abstract>
             <container label="Box" type="box">14</container>
           </did>
@@ -256,7 +256,7 @@
         </c02>
         <c02>
           <did>
-            <unittitle label="Subject">Greek Revivial</unittitle>
+            <unittitle label="Subject">Greek Revival</unittitle>
             <abstract label="Content">Part I through VI--Notes and Manuscript</abstract>
             <container label="Box" type="box">23</container>
           </did>
@@ -292,7 +292,7 @@
             <container label="Box" type="box">27</container>
           </did>
           <separatedmaterial>
-            <p>Supplemenat Drawings in Drawer no. 8, Map Case</p>
+            <p>Supplement Drawings in Drawer no. 8, Map Case</p>
           </separatedmaterial>
         </c02>
         <c02>
@@ -351,7 +351,7 @@
         </c02>
         <c02>
           <did>
-            <unittitle label="Subject">Histoical Architecture in the Eastern United
+            <unittitle label="Subject">Historical Architecture in the Eastern United
               States</unittitle>
             <abstract label="Content">Notes and Drawings</abstract>
             <container label="Box" type="box">35</container>
@@ -359,7 +359,7 @@
         </c02>
         <c02>
           <did>
-            <unittitle label="Subject">Histoical Architecture in the Eastern United
+            <unittitle label="Subject">Historical Architecture in the Eastern United
               States</unittitle>
             <abstract label="Content">Slides</abstract>
             <container label="Box" type="box">36</container>
@@ -367,7 +367,7 @@
         </c02>
         <c02>
           <did>
-            <unittitle label="Subject">Histoical Architecture in the Eastern United
+            <unittitle label="Subject">Historical Architecture in the Eastern United
               States</unittitle>
             <abstract label="Content">Slides and Photographs</abstract>
             <container label="Box" type="box">37</container>
@@ -375,7 +375,7 @@
         </c02>
         <c02>
           <did>
-            <unittitle label="Subject">Histoical Architecture in the Southern United
+            <unittitle label="Subject">Historical Architecture in the Southern United
               States</unittitle>
             <abstract label="Content">Notes and Slides</abstract>
             <container label="Box" type="box">38</container>
@@ -383,7 +383,7 @@
         </c02>
         <c02>
           <did>
-            <unittitle label="Subject">Histoical Architecture in the Western United
+            <unittitle label="Subject">Historical Architecture in the Western United
               States</unittitle>
             <abstract label="Content">Slides</abstract>
             <container label="Box" type="box">39</container>
@@ -585,7 +585,7 @@
         </c02>
         <c02>
           <did>
-            <unittitle label="Subject">More About Octgons</unittitle>
+            <unittitle label="Subject">More About Octagons</unittitle>
             <abstract label="Content">Manuscript</abstract>
             <container label="Box" type="box">67</container>
           </did>
@@ -706,7 +706,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>Shadbolt-krenzer House or Darius Shadbold House, Quaker Rd., <geogname>Scottsville, NY</geogname>
+                            <unittitle label='Subject'>Shadbolt-Krenzer House or Darius Shadbold House, Quaker Rd., <geogname>Scottsville, NY</geogname>
                             </unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-11</unitid>
                             <physloc label='Location'>Drawer A</physloc>
@@ -740,7 +740,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>The Bullard-lattin House, 3178 Gaines Basin Rd., <geogname>Gaines, NY</geogname></unittitle>
+                            <unittitle label='Subject'>The Bullard-Lattin House, 3178 Gaines Basin Rd., <geogname>Gaines, NY</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-15</unitid>
                             <physloc label='Location'>Drawer A</physloc>
                         <dao href='images/Drawing15.jpg'/></did>
@@ -799,7 +799,7 @@
                     </c03>
                     <c03>
                         <did>
-                            <unittitle label='Subject'>Green-longfellow-Devoe House (Front
+                            <unittitle label='Subject'>Green-Longfellow-Devoe House (Front
                                 Entrance), <geogname>Rush, NY</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-22</unitid>
                             <physloc label='Location'>Drawer A</physloc>
@@ -950,7 +950,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>12 Monrow Ave., <geogname>Pittsford,
+                            <unittitle label='Subject'>12 Monroe Ave., <geogname>Pittsford,
                                     NY</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-39</unitid>
                             <physloc label='Location'>Drawer B</physloc>
@@ -1124,7 +1124,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>The Riker House, Knuckerbacker Rd.</unittitle>
+                            <unittitle label='Subject'>The Riker House, Knickerbocker Rd.</unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-59</unitid>
                             <physloc label='Location'>Drawer C</physloc>
                         <dao href='images/Drawing59.jpg'/></did>
@@ -1453,7 +1453,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>Doorway between <geogname>Greigsville and Leichester, NY</geogname></unittitle>
+                            <unittitle label='Subject'>Doorway between <geogname>Greigsville, NY</geogname> and <geogname>Leichester, NY</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-97</unitid>
                             <physloc label='Location'>Drawer E</physloc>
                         <dao href='images/Drawing97.jpg'/></did>
@@ -1555,7 +1555,7 @@
                     </c03>
                     <c03>
                         <did>
-                            <unittitle label='Subject'>Thompson-Belink_miller House, <geogname>Rush,
+                            <unittitle label='Subject'>Thompson-Belink-Miller House, <geogname>Rush,
                                     NY</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-109</unitid>
                             <physloc label='Location'>Drawer E</physloc>
@@ -1619,7 +1619,7 @@
             </c03>
             <c03>
                 <did>
-                    <unittitle>Some Typical Dutch colonial Mouldings from <geogname>New Jersey</geogname>, <geogname>Long Island</geogname> and the Vinicity of <geogname>New York City</geogname></unittitle>
+                    <unittitle>Some Typical Dutch colonial Mouldings from <geogname>New Jersey</geogname>, <geogname>Long Island</geogname> and the vicinity of <geogname>New York City</geogname></unittitle>
                     <unitid>Plate 6</unitid>
                 </did>
             </c03>
@@ -1631,13 +1631,13 @@
             </c03>
             <c03>
                 <did>
-                    <unittitle>Typical Mouldings from the South From <geogname>MaryLand</geogname>, <geogname>Delaware</geogname>, <geogname>Virginia</geogname>, and <geogname>North Carolina</geogname></unittitle>
+                    <unittitle>Typical Mouldings from the South From <geogname>Maryland</geogname>, <geogname>Delaware</geogname>, <geogname>Virginia</geogname>, and <geogname>North Carolina</geogname></unittitle>
                     <unitid>Plate 8</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
-                    <unittitle>Profiles of Mouldings from <geogname>Canaandaigua, NY</geogname></unittitle>
+                    <unittitle>Profiles of Mouldings from <geogname>Canandaigua, NY</geogname></unittitle>
                     <unitid>Plate 9</unitid>
                 </did>
             </c03>
@@ -1702,13 +1702,13 @@
             </c03>
             <c03>
                 <did>
-                    <unittitle>Interor Details from the Norris House on Winton Road, <geogname>Rochester, NY</geogname></unittitle>
+                    <unittitle>Interior Details from the Norris House on Winton Road, <geogname>Rochester, NY</geogname></unittitle>
                     <unitid>Plate 18</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
-                    <unittitle>Entrance to the Ward House on Colleve Ave <geogname>Rochester, NY</geogname></unittitle>
+                    <unittitle>Entrance to the Ward House on College Ave <geogname>Rochester, NY</geogname></unittitle>
                     <unitid>Plate 19</unitid>
                 </did>
             </c03>
@@ -1819,7 +1819,7 @@
             </c03>
             <c03>
                 <did>
-                    <unittitle>Entrance Door to an Old avern on the Road from <geogname>Canandaigua, NY</geogname> to <geogname>East Bloomfield, NY</geogname></unittitle>
+                    <unittitle>Entrance Door to an Old Tavern on the Road from <geogname>Canandaigua, NY</geogname> to <geogname>East Bloomfield, NY</geogname></unittitle>
                     <unitid>Plate 37</unitid>
                 </did>
             </c03>
@@ -1977,14 +1977,14 @@
             </c03>
             <c03>
                 <did>
-                    <unittitle>Library in the Hervery Ely House, Now the D.A.R. Cor. Livingston Park and Troup St.,<geogname>Rochester, NY</geogname> Built in the late 1820's</unittitle>
+                    <unittitle>Library in the Hervey Ely House, Now the D.A.R. Cor. Livingston Park and Troup St.,<geogname>Rochester, NY</geogname> Built in the late 1820's</unittitle>
                     <unitid>Plate 63</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
-                    <unittitle>Library Details in the Hervery Ely House, Now the D.A.R. Cor. Livingston Park and Troup St.,<geogname>Rochester, NY</geogname> Built in the late 1820's</unittitle>
+                    <unittitle>Library Details in the Hervey Ely House, Now the D.A.R. Cor. Livingston Park and Troup St.,<geogname>Rochester, NY</geogname> Built in the late 1820's</unittitle>
                     <unitid>Plate 64</unitid>
                     <note><p>2 copies</p></note>
                 </did>
@@ -2105,7 +2105,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Cornice Details Jonathan Child House S. Washinton St. <geogname>Rochester, NY</geogname></unittitle>
+                        <unittitle>Cornice Details Jonathan Child House S. Washington St. <geogname>Rochester, NY</geogname></unittitle>
                         <unitid>Plate 3</unitid>
                     </did>
                 </c04>
@@ -2123,7 +2123,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Elevation of South end of Parlor, Jonathan Child House South Washinton St. <geogname>Rochester, NY</geogname></unittitle>
+                        <unittitle>Elevation of South end of Parlor, Jonathan Child House South Washington St. <geogname>Rochester, NY</geogname></unittitle>
                         <unitid>Plate 6</unitid>
                     </did>
                 </c04>
@@ -2153,7 +2153,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Restored Entrance to the McAmmond Tenney melville House 25 Rochester St <geogname>Scotsville, NY</geogname></unittitle>
+                        <unittitle>Restored Entrance to the McAmmond Tenney Melville House 25 Rochester St <geogname>Scottsville, NY</geogname></unittitle>
                         <unitid>Plate 11</unitid>
                     </did>
                 </c04>
@@ -2369,13 +2369,13 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>South Side Elevation Davis Hazon Cobblestone North Greece Rd., near <geogname>Rochester, NY</geogname></unittitle>
+                        <unittitle>South Side Elevation Davis Hazen Cobblestone North Greece Rd., near <geogname>Rochester, NY</geogname></unittitle>
                         <unitid>Plate 47</unitid>
                     </did>
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>First Floor Plan Davis Haxon Cobblestone North Greece Rd., <geogname>Rochester, NY</geogname></unittitle>
+                        <unittitle>First Floor Plan Davis Hazen Cobblestone North Greece Rd., <geogname>Rochester, NY</geogname></unittitle>
                         <unitid>Plate 48</unitid>
                     </did>
                 </c04>
@@ -2483,7 +2483,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Interior Elevatin of Front Entrance Foster Ewell House Originally located on Roanoke Rd<geogname>Pavilion, NY</geogname>, now located in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
+                        <unittitle>Interior Elevation of Front Entrance Foster Ewell House Originally located on Roanoke Rd<geogname>Pavilion, NY</geogname>, now located in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
                         <unitid>Plate 66</unitid>
                     </did>
                 </c04>
@@ -2573,43 +2573,43 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>North &amp; East Side Elevation MaCarthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
+                        <unittitle>North &amp; East Side Elevation MacArthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
                         <unitid>Plate 81</unitid>
                     </did>
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>First Floor Plan MaCarthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
+                        <unittitle>First Floor Plan MacArthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
                         <unitid>Plate 82</unitid>
                     </did>
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Cornice MaCarthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
+                        <unittitle>Cornice MacArthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
                         <unitid>Plate 83</unitid>
                     </did>
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Entrance to MaCarthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
+                        <unittitle>Entrance to MacArthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
                         <unitid>Plate 84</unitid>
                     </did>
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Mantel in MaCarthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
+                        <unittitle>Mantel in MacArthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
                         <unitid>Plate 85</unitid>
                     </did>
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Windows and Doors in Parlor from MaCarthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
+                        <unittitle>Windows and Doors in Parlor from MacArthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
                         <unitid>Plate 86</unitid>
                     </did>
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Mantel &amp; Window in the MaCarthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
+                        <unittitle>Mantel &amp; Window in the MacArthur House Originally located on York Rd., West of York, NY now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
                         <unitid>Plate 87</unitid>
                     </did>
                 </c04>
@@ -2645,13 +2645,13 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Plan &amp; Front Elevation Delancy Stow's Insurance Office From <geogname>Clyde, NY</geogname> now located in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
+                        <unittitle>Plan &amp; Front Elevation Delancey Stow's Insurance Office From <geogname>Clyde, NY</geogname> now located in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
                         <unitid>Plate 93</unitid>
                     </did>
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Delancy Stow's Insurance Office From <geogname>Clyde, NY</geogname> now located in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
+                        <unittitle>Delancey Stow's Insurance Office From <geogname>Clyde, NY</geogname> now located in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
                         <unitid>Plate 94</unitid>
                     </did>
                 </c04>
@@ -2675,7 +2675,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Floor Pland &amp; Side Elevation Shop From <geogname>Roseboom, NY</geogname> now located in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
+                        <unittitle>Floor Plan &amp; Side Elevation Shop From <geogname>Roseboom, NY</geogname> now located in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
                         <unitid>Plate 98</unitid>
                     </did>
                 </c04>
@@ -2747,7 +2747,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Stecnils in the Gould Drake House <geogname>Wayne Co., NY</geogname></unittitle>
+                        <unittitle>Stencils in the Gould Drake House <geogname>Wayne Co., NY</geogname></unittitle>
                         <unitid>Plate 110</unitid>
                     </did>
                 </c04>
@@ -2813,7 +2813,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Exterior Entrances to Cellars &amp; How to Move a StoneWall</unittitle>
+                        <unittitle>Exterior Entrances to Cellars &amp; How to Move a Stone Wall</unittitle>
                         <unitid>Plate 120</unitid>
                     </did>
                 </c04>
@@ -2887,7 +2887,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Robison Rupp House Robinson Rd., <geogname>Niagara County, NY</geogname> &amp; Bradley Miller House <geogname>Niagara County, NY</geogname></unittitle>
+                        <unittitle>Robinson Rupp House Robinson Rd., <geogname>Niagara County, NY</geogname> &amp; Bradley Miller House <geogname>Niagara County, NY</geogname></unittitle>
                         <unitid>Plate 11</unitid>
                     </did>
                 </c04>
@@ -2905,7 +2905,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Johnson burchfield House <geogname>Morton, NY</geogname> &amp; Lynn Cliff House <geogname>Orlean County</geogname></unittitle>
+                        <unittitle>Johnson Burchfield House <geogname>Morton, NY</geogname> &amp; Lynn Cliff House <geogname>Orlean County, NY</geogname></unittitle>
                         <unitid>Plate 14</unitid>
                     </did>
                 </c04>
@@ -2935,7 +2935,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Church <geogname>Middlepoint, NY</geogname> &amp; The taylor House on Niagara Falls Rd., <geogname>Niagara County, NY</geogname></unittitle>
+                        <unittitle>Church <geogname>Middlepoint, NY</geogname> &amp; The Taylor House on Niagara Falls Rd., <geogname>Niagara County, NY</geogname></unittitle>
                         <unitid>Plate 19</unitid>
                     </did>
                 </c04>
@@ -3475,14 +3475,14 @@
            
             <c03> 
             	 <did> 
-            	 	 <unittitle>Entrance to "Lorenzo", bulit by John Lincklaen <geogname>Cazenovia, NY</geogname> erected in 1807</unittitle> 
+            	 	 <unittitle>Entrance to "Lorenzo", built by John Lincklaen <geogname>Cazenovia, NY</geogname> erected in 1807</unittitle> 
             	 	 <unitid>Plate 27</unitid> 
             	 	  </did> 
             </c03>
            
             <c03> 
             	 <did> 
-            	     <unittitle>Entrance to "Lorenzo", bulit by John Lincklaen <geogname>Cazenovia, NY</geogname> erected in 1807</unittitle> 
+            	     <unittitle>Entrance to "Lorenzo", built by John Lincklaen <geogname>Cazenovia, NY</geogname> erected in 1807</unittitle> 
             	 	 <unitid>Plate 28</unitid> 
             	 	  </did> 
             </c03>
@@ -3538,7 +3538,7 @@
            
             <c03> 
             	 <did> 
-            	 	 <unittitle>Entrance to the Pettibon Hackett House <geogname>Elba, NY</geogname></unittitle> 
+            	 	 <unittitle>Entrance to the Pettibone Hackett House <geogname>Elba, NY</geogname></unittitle> 
             	 	 <unitid>Plate 36</unitid> 
             	 	  </did> 
             </c03>
@@ -3650,7 +3650,7 @@
            
             <c03> 
             	 <did> 
-            	 	 <unittitle>Entrance to the Exchange Hotel, now te Community Building <geogname>Mumford, NY</geogname></unittitle> 
+            	 	 <unittitle>Entrance to the Exchange Hotel, now the Community Building <geogname>Mumford, NY</geogname></unittitle> 
             	 	 <unitid>Plate 52</unitid> 
             	 	  </did> 
             </c03>
@@ -4055,7 +4055,7 @@
            
             <c03> 
             	 <did> 
-            	 	 <unittitle>Sull Size Details Typcial Philadelphia Mouldings <geogname>Philadelphia, PA</geogname></unittitle> 
+            	 	 <unittitle>Full Size Details Typical Philadelphia Mouldings <geogname>Philadelphia, PA</geogname></unittitle> 
             	 	 <unitid>Plate 10</unitid> 
             	 	  </did> 
             </c03>
@@ -4082,7 +4082,7 @@
              
               <c03> 
               	 <did> 
-              	 	 <unittitle>Arbot in Garden Erickson Perkins House <geogname>Rochester, NY</geogname></unittitle> 
+              	 	 <unittitle>Arbor in Garden Erickson Perkins House <geogname>Rochester, NY</geogname></unittitle> 
               	 	 <unitid>Plate 2</unitid> 
               	 	  </did> 
               </c03>
@@ -4110,7 +4110,7 @@
              
               <c03> 
               	 <did> 
-              	 	 <unittitle>Fence in Fron of the Erickson Perkins House, now the Genesee valley Club <geogname>Rochester, NY</geogname></unittitle> 
+              	 	 <unittitle>Fence in Front of the Erickson Perkins House, now the Genesee valley Club <geogname>Rochester, NY</geogname></unittitle> 
               	 	 <unitid>Plate 6</unitid> 
               	 	  </did> 
               </c03>
@@ -4194,7 +4194,7 @@
              
               <c03> 
               	 <did> 
-              	 	 <unittitle>Fragment of Fence at the Graney Hamilton House <geogname>Leroy, NY</geogname> &amp; Fregment of Fence Mt. Reed Blvd., <geogname>Greece, NY</geogname></unittitle> 
+              	 	 <unittitle>Fragment of Fence at the Graney Hamilton House <geogname>Leroy, NY</geogname> &amp; Fragment of Fence Mt. Reed Blvd., <geogname>Greece, NY</geogname></unittitle> 
               	 	 <unitid>Plate 18</unitid> 
               	 	  </did> 
               </c03>
@@ -4320,7 +4320,7 @@
              
               <c03> 
               	 <did> 
-              	 	 <unittitle>Fence in front of teh Harris Hufford Residence <geogname>Patriot, IN</geogname></unittitle> 
+              	 	 <unittitle>Fence in front of the Harris Hufford Residence <geogname>Patriot, IN</geogname></unittitle> 
               	 	 <unitid>Plate 36</unitid> 
               	 	  </did> 
               </c03>
@@ -4362,7 +4362,7 @@
              
               <c03> 
               	 <did> 
-              	 	 <unittitle>Fence in front of the LLoyd Brinton House <geogname>Falls Village, CT</geogname></unittitle> 
+              	 	 <unittitle>Fence in front of the Lloyd Brinton House <geogname>Falls Village, CT</geogname></unittitle> 
               	 	 <unitid>Plate 42</unitid> 
               	 	  </did> 
               </c03>
@@ -4390,14 +4390,14 @@
              
               <c03> 
               	 <did> 
-              	     <unittitle>Fence in front of the Topping Reeves House <geogname>Litchfield, Ct</geogname></unittitle> 
+              	     <unittitle>Fence in front of the Topping Reeves House <geogname>Litchfield, CT</geogname></unittitle> 
               	 	 <unitid>Plate 46</unitid> 
               	 	  </did> 
               </c03>
              
               <c03> 
               	 <did> 
-              	 	 <unittitle>Yard Elevation of Fence at Miss Poter's School <geogname>Farmington, CT</geogname></unittitle> 
+              	 	 <unittitle>Yard Elevation of Fence at Miss Porter's School <geogname>Farmington, CT</geogname></unittitle> 
               	 	 <unitid>Plate 47</unitid> 
               	     <note><p>Details the fence of plate 48</p></note>
               	 	  </did> 
@@ -4405,7 +4405,7 @@
              
               <c03> 
               	 <did> 
-              	     <unittitle>Fence at Miss Poter's School <geogname>Farmington, CT</geogname></unittitle> 
+              	     <unittitle>Fence at Miss Porter's School <geogname>Farmington, CT</geogname></unittitle> 
               	 	 <unitid>Plate 48</unitid> 
               	 	  </did> 
               </c03>
@@ -4447,7 +4447,7 @@
              
               <c03> 
               	 <did> 
-              	 	 <unittitle>Grape Aror in Garden Ropes Memorial <geogname>Salem, MA</geogname></unittitle> 
+              	 	 <unittitle>Grape Arbor in Garden Ropes Memorial <geogname>Salem, MA</geogname></unittitle> 
               	 	 <unitid>Plate 54</unitid> 
               	 	  </did> 
               </c03>
@@ -4496,7 +4496,7 @@
              
               <c03> 
               	 <did> 
-              	 	 <unittitle>Fence on Route 1 Three Miles South of <geogname>Hamptonm NH</geogname></unittitle> 
+              	 	 <unittitle>Fence on Route 1 Three Miles South of <geogname>Hampton NH</geogname></unittitle> 
               	 	 <unitid>Plate 61</unitid> 
               	 	  </did> 
               </c03>
@@ -4706,7 +4706,7 @@
             <c03 level="file">
                 <did>
                     <unittitle label="Subject">Plates: Misc: Greek Revival Architecture</unittitle>
-                    <physdesc>14 architectual prints size XXXX. All plates measured and drawn by Carl Schmidt</physdesc>
+                    <physdesc>14 architectural prints size XXXX. All plates measured and drawn by Carl Schmidt</physdesc>
                 </did>
                 <c04>
                     <did>
@@ -4716,7 +4716,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>The Bicknel House Spting St.</unittitle>
+                        <unittitle>The Bicknel House Spring St.</unittitle>
                         <unitid>Page 27</unitid>
                     </did>
                 </c04>
@@ -4814,7 +4814,7 @@
             <c03 level="file">
                 <did>
                     <unittitle label="Subject">Plates: Greek Revival Details</unittitle>
-                    <physdesc>100 Architectual Prints, Size XXXX. All plates measured and drawn by Carl Schmidt</physdesc>
+                    <physdesc>100 Architectural Prints, Size XXXX. All plates measured and drawn by Carl Schmidt</physdesc>
                 </did>
                 <c04>
                     <did>
@@ -5052,7 +5052,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Entrance to the Seaman House Ridge Rd., <geogname>Clarkson, NY</geogname> &amp; Side Entrance to the Norman Thator House South Street Rd., <geogname>Leroy, NY</geogname></unittitle>
+                        <unittitle>Entrance to the Seaman House Ridge Rd., <geogname>Clarkson, NY</geogname> &amp; Side Entrance to the Norman Thater House South Street Rd., <geogname>Leroy, NY</geogname></unittitle>
                         <unitid>Plate 40</unitid>
                     </did>
                 </c04>
@@ -5136,7 +5136,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Front Eleveation of the Edson Skivington House <geogname>Scottsville, NY</geogname></unittitle>
+                        <unittitle>Front Elevation of the Edson Skivington House <geogname>Scottsville, NY</geogname></unittitle>
                         <unitid>Plate 54</unitid>
                     </did>
                 </c04>
@@ -5238,19 +5238,19 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Elevation of South Parlor Wall, the Harmon Hammond House at North Rd., &amp; Riga Mumford Rd., twon of <geogname>Wheatland, NY</geogname></unittitle>
+                        <unittitle>Elevation of South Parlor Wall, the Harmon Hammond House at North Rd., &amp; Riga Mumford Rd., town of <geogname>Wheatland, NY</geogname></unittitle>
                         <unitid>Plate 71</unitid>
                     </did>
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Details from the Parlor, Harmon Hammond House at North Rd., &amp; Riga Mumford Rd., twon of <geogname>Wheatland, NY</geogname></unittitle>
+                        <unittitle>Details from the Parlor, Harmon Hammond House at North Rd., &amp; Riga Mumford Rd., town of <geogname>Wheatland, NY</geogname></unittitle>
                         <unitid>Plate 72</unitid>
                     </did>
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Elevation of Parlor Doors, Harmon Hammond House at North Rd., &amp; Riga Mumford Rd., twon of <geogname>Wheatland, NY</geogname></unittitle>
+                        <unittitle>Elevation of Parlor Doors, Harmon Hammond House at North Rd., &amp; Riga Mumford Rd., town of <geogname>Wheatland, NY</geogname></unittitle>
                         <unitid>Plate 73</unitid>
                     </did>
                 </c04>
@@ -5414,7 +5414,7 @@
             <c03 level="file">
                 <did>
                     <unittitle label="Subject">Plates: Misc: Colonial &amp; Post Colonial Doorways</unittitle>
-                    <physdesc>11 Architectual Prints, Size XXXX. All plates measured and drawn by Carl Schmidt</physdesc>
+                    <physdesc>11 Architectural Prints, Size XXXX. All plates measured and drawn by Carl Schmidt</physdesc>
                 </did>
                 <c04>
                     <did>
@@ -5491,7 +5491,7 @@
             <c03 level="file">
                 <did>
                     <unittitle label="Subject">Plates Miscellaneous Greek Revival Details</unittitle>
-                    <physdesc>3 Architectual Prints, Size XXXX. All plates measured and drawn by Carl Schmidt</physdesc>
+                    <physdesc>3 Architectural Prints, Size XXXX. All plates measured and drawn by Carl Schmidt</physdesc>
                 </did>
                 <c04>
                     <did>
@@ -5515,9 +5515,9 @@
             <c03>
                 <did>
                     <unittitle>Greek Revival Details</unittitle>
-                    <physdesc>3 Architectual Prints, Size XXXX. All plates measured and drawn by Carl Schmidt</physdesc>
+                    <physdesc>3 Architectural Prints, Size XXXX. All plates measured and drawn by Carl Schmidt</physdesc>
                     <note>
-                        <p>Not foldered</p>
+                        <p>Not in a folder</p>
                     </note>
                 </did>
                 <c04>
@@ -5549,7 +5549,7 @@
             <c03 level="file">
                 <did>
                     <unittitle label="Subject">The Octagon Fad</unittitle>
-                    <physdesc>25 Architectual Prints, Size 20in x14in. All plates measured and drawn by Carl Schmidt</physdesc>
+                    <physdesc>25 Architectural Prints, Size 20in x14in. All plates measured and drawn by Carl Schmidt</physdesc>
                 </did>
                 <c04>
                     <did>
@@ -5614,7 +5614,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Yougnlove Wood House <geogname>Hammondsport, NY</geogname> built by Timothy Younglove in 1859</unittitle>
+                        <unittitle>Younglove Wood House <geogname>Hammondsport, NY</geogname> built by Timothy Younglove in 1859</unittitle>
                         <unitid>Page 193</unitid>
                     </did>
                 </c04>
@@ -5770,7 +5770,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Sprial Staircase, The Jonathan Child House S. Washington St., <geogname>Rochester, NY</geogname></unittitle>
+                        <unittitle>Spiral Staircase, The Jonathan Child House S. Washington St., <geogname>Rochester, NY</geogname></unittitle>
                         <unitid>No Label</unitid>
                     </did>
                 </c04>
@@ -5826,7 +5826,7 @@
             <c03 level="file">
                 <did>
                     <unittitle label="Subject">Misc. Arc</unittitle>
-                    <physdesc>4 Architectual Prints, Size 20in x14in. All plates measured and drawn by Carl Schmidt</physdesc>
+                    <physdesc>4 Architectural Prints, Size 20in x14in. All plates measured and drawn by Carl Schmidt</physdesc>
                 </did>
                 <c04>
                     <did>
@@ -5939,7 +5939,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Mantel in Childrens Bedroom Afton Villa <geogname>West Feliciance Parish, LA</geogname></unittitle>
+                        <unittitle>Mantel in Children’s Bedroom Afton Villa <geogname>West Feliciance Parish, LA</geogname></unittitle>
                         <unitid>Plate 13</unitid>
                     </did>
                 </c04>
@@ -6095,7 +6095,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Details of th Entrance to Morgan Lovria House Main St., <geogname>Leroy, NY</geogname></unittitle>
+                        <unittitle>Details of the Entrance to Morgan Lovria House Main St., <geogname>Leroy, NY</geogname></unittitle>
                         <unitid>Plate 39</unitid>
                     </did>
                 </c04>
@@ -6215,7 +6215,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Detail fo Conservatory Southworth Porter house 1883 Penfield Rd., <geogname>Penfield, NY</geogname></unittitle>
+                        <unittitle>Detail of Conservatory Southworth Porter house 1883 Penfield Rd., <geogname>Penfield, NY</geogname></unittitle>
                         <unitid>Plate 59</unitid>
                     </did>
                 </c04>
@@ -6809,7 +6809,7 @@
             <c03>
                 <did>
                     <unittitle label="Subject">Cobble Stone Houses</unittitle>
-                    <physdesc>10 photographys of Cobble Stone Houses most of which are mounted on 20in x 14in whiteboards. Nine black and white 5in x 7in; one black and white 10.5in x 13.5in; and one color print 10.5in x 14in</physdesc>
+                    <physdesc>10 photographs of Cobble Stone Houses most of which are mounted on 20in x 14in whiteboards. Nine black and white 5in x 7in; one black and white 10.5in x 13.5in; and one color print 10.5in x 14in</physdesc>
                 </did>
             </c03>
             <c03>
@@ -6862,21 +6862,21 @@
         <c02 level="subseries" id="drawer11">
             <did>
                 <unittitle>Pioneer Village Museum</unittitle>
-                <physdesc>6 sets of Architectual drawings and 1 stand-alone drawing</physdesc>
+                <physdesc>6 sets of Architectural drawings and 1 stand-alone drawing</physdesc>
                 <physloc>Drawer 11</physloc>
             </did>
             <c03>
                 <did>
                     <unittitle>Altay Store</unittitle>
                     <unitid>Set 1</unitid>
-                    <physdesc>5 architectual drawings. Size 17in x 26in. All plates measured and drawn by Carl Schmidt</physdesc>
+                    <physdesc>5 architectural drawings. Size 17in x 26in. All plates measured and drawn by Carl Schmidt</physdesc>
                 </did>                                
             </c03>
             <c03>
                 <did>
                     <unittitle>Clyde Store</unittitle>
                     <unitid>Set 2</unitid>
-                    <physdesc>6 architectual drawings. Size 18in x 24in. All plates measured and drawn by Carl Schmidt</physdesc>
+                    <physdesc>6 architectural drawings. Size 18in x 24in. All plates measured and drawn by Carl Schmidt</physdesc>
                 </did>              
                 
             </c03>
@@ -6884,28 +6884,28 @@
                 <did>
                     <unittitle>Carriage and Wagon Museum for Mr &amp; Mrs John Wehle George St., <geogname>Mumford, NY</geogname></unittitle>
                     <unitid>Set 3</unitid>
-                    <physdesc>7 architectual drawings. All plates measured and drawn by Carl Schmidt</physdesc>
+                    <physdesc>7 architectural drawings. All plates measured and drawn by Carl Schmidt</physdesc>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Allan Lyter House </unittitle>
                     <unitid>Set 4</unitid>
-                    <physdesc>10 architectual drawings.  All plates measured and drawn by Carl Schmidt</physdesc>
+                    <physdesc>10 architectural drawings.  All plates measured and drawn by Carl Schmidt</physdesc>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Wehle Museum</unittitle>
                     <unitid>Set 5</unitid>
-                    <physdesc>12 architectual drawings. Size 37in x 219in. All plates measured and drawn by Carl Schmidt</physdesc>
+                    <physdesc>12 architectural drawings. Size 37in x 219in. All plates measured and drawn by Carl Schmidt</physdesc>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Visitors House</unittitle>
                     <unitid>Set 6</unitid>
-                    <physdesc>6 architectual drawings. Size 18in x 21in. All plates measured and drawn by Carl Schmidt</physdesc>
+                    <physdesc>6 architectural drawings. Size 18in x 21in. All plates measured and drawn by Carl Schmidt</physdesc>
                 </did>
             </c03>
             <c03>
@@ -6917,80 +6917,80 @@
           <c02 level="subseries" id="drawer12">
               <did>
                   <unittitle>Pioneer Village Museum</unittitle>
-                  <physdesc>4 sets of Architectual drawings</physdesc>
+                  <physdesc>4 sets of Architectural drawings</physdesc>
                   <physloc>Drawer 12</physloc>
               </did>
               <c03>
                   <did>
                       <unittitle>The Harness Shop</unittitle>                      
-                      <physdesc>7 architectual drawings. Size 18.5in x 20in. All plates measured and drawn by Carl Schmidt</physdesc>
+                      <physdesc>7 architectural drawings. Size 18.5in x 20in. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>
               </c03>
               <c03>
                   <did>
                       <unittitle>Log Cabin East River Rd., <geogname>Avon, NY</geogname></unittitle>                      
-                      <physdesc>2 architectual drawings. Size 19in x 20in. All plates measured and drawn by Carl Schmidt</physdesc>
+                      <physdesc>2 architectural drawings. Size 19in x 20in. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>
               </c03>
               <c03>
                   <did>
                       <unittitle>Foster Ewell House</unittitle>                      
-                      <physdesc>5 architectual drawings. All plates measured and drawn by Carl Schmidt</physdesc>
+                      <physdesc>5 architectural drawings. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>
               </c03>
               <c03>
                   <did>
                       <unittitle>Foster Ewell House</unittitle>                      
-                      <physdesc>5 architectual drawings. All plates measured and drawn by Carl Schmidt</physdesc>
+                      <physdesc>5 architectural drawings. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>
               </c03>
           </c02>
           <c02 level="subseries" id="drawer13">
               <did>
                   <unittitle>Pioneer Village Museum</unittitle>
-                  <physdesc>6 sets of Architectual drawings</physdesc>
+                  <physdesc>6 sets of Architectural drawings</physdesc>
                   <physloc>Drawer 13</physloc>
               </did>
               <c03>
                   <did>
                       <unittitle>Samuel Salsbury House <geogname>Holley, NY</geogname></unittitle>
                       <unitid>Set 1</unitid>
-                      <physdesc>9 architectual drawings. Size 19.5in x 24in. All plates measured and drawn by Carl Schmidt</physdesc>
+                      <physdesc>9 architectural drawings. Size 19.5in x 24in. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>                  
               </c03>
               <c03>
                   <did>
                       <unittitle>The Morgan House</unittitle>
                       <unitid>Set 2</unitid>
-                      <physdesc>11 architectual drawings. Size varies. All plates measured and drawn by Carl Schmidt</physdesc>
+                      <physdesc>11 architectural drawings. Size varies. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>                  
               </c03>
               <c03>
                   <did>
                       <unittitle>The Print Shop</unittitle>
                       <unitid>Set 3</unitid>
-                      <physdesc>714 architectual drawings. Size varies. All plates measured and drawn by Carl Schmidt</physdesc>
+                      <physdesc>714 architectural drawings. Size varies. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>                  
               </c03>
               <c03>
                   <did>
                       <unittitle>Joseph Thompson Tavern Chili Rd., &amp; Mumford Riga Rd., <geogname>Riga, NY</geogname></unittitle>
                       <unitid>Set 4</unitid>
-                      <physdesc>14 architectual drawings. Size varies. All plates measured and drawn by Carl Schmidt</physdesc>
+                      <physdesc>14 architectural drawings. Size varies. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>                  
               </c03>
               <c03>
                   <did>
                       <unittitle>Quaker Church</unittitle>
                       <unitid>Set 5</unitid>
-                      <physdesc>8 architectual drawings. Size 20in x 25in and 18in x 20in. All plates measured and drawn by Carl Schmidt</physdesc>
+                      <physdesc>8 architectural drawings. Size 20in x 25in and 18in x 20in. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>                  
               </c03>
               <c03>
                   <did>
                       <unittitle>Ward Hovey House </unittitle>
                       <unitid>Set 6</unitid>
-                      <physdesc>6 architectual drawings. Size varies. All plates measured and drawn by Carl Schmidt</physdesc>
+                      <physdesc>6 architectural drawings. Size varies. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>                  
               </c03>
               
