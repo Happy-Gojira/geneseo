@@ -276,33 +276,55 @@
         <xsl:choose>
             <xsl:when test="@id='drawer1'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
+                <div><xsl:apply-templates select="c03"/></div>
             </xsl:when>
             <xsl:when test="@id='drawer2'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
+                <div><xsl:apply-templates select="c03"/></div>
             </xsl:when>
             <xsl:when test="@id='drawer3'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
+                <div><xsl:apply-templates select="c03"/></div>
             </xsl:when>
             <xsl:when test="@id='drawer4'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
+                <div><xsl:apply-templates select="c03"/></div>
             </xsl:when>
             <xsl:when test="@id='drawer5'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
+                <div><xsl:apply-templates select="c03"/></div>
             </xsl:when>
             <xsl:when test="@id='drawer6'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
+                <div><xsl:apply-templates select="c03"/></div>
             </xsl:when>
             <xsl:when test="@id='drawer7'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
+                <div><xsl:apply-templates select="c03"/></div>
             </xsl:when>
             <xsl:when test="@id='drawer8'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
+                <div><xsl:apply-templates select="c03"/></div>
             </xsl:when>
             <xsl:when test="@id='drawer9'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
+                <div><xsl:apply-templates select="c03"/></div>
             </xsl:when>
             <xsl:when test="@id='drawer10'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
+                <div><xsl:apply-templates select="c03"/></div>
+            </xsl:when>
+            <xsl:when test="@id='drawer11'">
+                <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
+                <div><xsl:apply-templates select="c03"/></div>
+            </xsl:when>
+            <xsl:when test="@id='drawer12'">
+                <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
+                <div><xsl:apply-templates select="c03"/></div>
+            </xsl:when>
+            <xsl:when test="@id='drawer13'">
+                <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
+                <div><xsl:apply-templates select="c03"/></div>
             </xsl:when>
             
         </xsl:choose>

@@ -8,7 +8,7 @@
     
     <filedesc>
       <titlestmt>
-        <titleproper>The Carl Schmidt Collection <date>1944-1969?</date></titleproper>
+          <titleproper>The Carl Schmidt Collection in Historic Architecture <date>1944-1969</date></titleproper>
         <author>XXX</author>
       </titlestmt>
     </filedesc>
@@ -16,7 +16,7 @@
 
   <frontmatter>
     <titlepage>
-      <titleproper>The Carl Schmidt Collection <date>1944-1969?</date></titleproper>
+        <titleproper>The Carl Schmidt Collection in Historic Architecture <date>1944-1969</date></titleproper>
       <list type="deflist">
         <defitem>
           <label>Processed by: </label>
@@ -1569,513 +1569,513 @@
           <head>Measured Drawings and Prints</head>
           <physdesc>XXXX</physdesc>
         </did>
-        <c02 level="subseries" id="drawer1">
+        <c02 id='drawer1' level='subseries'>
           <did>
-            <unittitle label="Subject">Architectural Mouldings</unittitle>
+            <unittitle label='Subject'>Architectural Mouldings</unittitle>
             <physdesc>106 drawings the majority of which are 36in x 48in. All plates measured and drawn by Carl Schmidt</physdesc>
             <physloc>Drawer 1</physloc>
           </did>
             <c03>
                 <did>
                     <unittitle>Classical Greek Mouldings</unittitle>
-                    <unitid>Plate 1</unitid>
+                    <unitid label='Label'>Plate 1</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Roman Mouldings</unittitle>
-                    <unitid>Plate 1A</unitid>
+                    <unitid label='Label'>Plate 1A</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Gothic Mouldings</unittitle>
-                    <unitid>Plate 1B</unitid>
+                    <unitid label='Label'>Plate 1B</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Full Size Mouldings of the Italian Renaissance</unittitle>
-                    <unitid>Plate 2</unitid>
+                    <unitid label='Label'>Plate 2</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>F.S. Profile of Wren &amp; Georgian Mouldings</unittitle>
-                    <unitid>Plate 3</unitid>
+                    <unitid label='Label'>Plate 3</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Full Size Profiles of Louis XV Mouldings</unittitle>
-                    <unitid>Plate 4</unitid>
+                    <unitid label='Label'>Plate 4</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Various New England Mouldings</unittitle>
-                    <unitid>Plate 5</unitid>
+                    <unitid label='Label'>Plate 5</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Some Typical Dutch colonial Mouldings from <geogname>New Jersey</geogname>, <geogname>Long Island</geogname> and the vicinity of <geogname>New York City</geogname></unittitle>
-                    <unitid>Plate 6</unitid>
+                    <unitid label='Label'>Plate 6</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Profiles of Mouldings from <geogname>Philadelphia, PA</geogname> and the Vicinity</unittitle>
-                    <unitid>Plate 7</unitid>
+                    <unitid label='Label'>Plate 7</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Typical Mouldings from the South From <geogname>Maryland</geogname>, <geogname>Delaware</geogname>, <geogname>Virginia</geogname>, and <geogname>North Carolina</geogname></unittitle>
-                    <unitid>Plate 8</unitid>
+                    <unitid label='Label'>Plate 8</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Profiles of Mouldings from <geogname>Canandaigua, NY</geogname></unittitle>
-                    <unitid>Plate 9</unitid>
+                    <unitid label='Label'>Plate 9</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Typical Mouldings from the Post-Colonial Houses of <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 10</unitid>
+                    <unitid label='Label'>Plate 10</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Greek Revival Mouldings from <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 11</unitid>
+                    <unitid label='Label'>Plate 11</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Unknown</unittitle>
-                    <unitid>Plate 12</unitid>
+                    <unitid label='Label'>Plate 12</unitid>
                     <note><p>Not received as of 8/5/1975</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Main Entrance to the Isaac Hills House, 135 Plymouth Ave <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 13</unitid>
+                    <unitid label='Label'>Plate 13</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Niche in Stari Hall in the Isaac Hills house, Plymouth Ave <geogname>South Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 14</unitid>
+                    <unitid label='Label'>Plate 14</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Mantel in Front Parlor of the Isaac Hills House, Plymouth Ave <geogname>South Rochester, NY</geogname> </unittitle>
-                    <unitid>Plate 15</unitid>
+                    <unitid label='Label'>Plate 15</unitid>
                     <note><p>Duplicate plate number but different title and drawing</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Mantel in the Second Floor Bed Room in the  Isaac Hills House Plymouth Ave <geogname>South Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 15</unitid>
+                    <unitid label='Label'>Plate 15</unitid>
                     <note><p>Duplicate plate number but different title and drawing</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Exterior Details of the Norris House on Winton Road, <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 16</unitid>
+                    <unitid label='Label'>Plate 16</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Main Entrance of the Norris House on Winton Road, <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 17</unitid>
+                    <unitid label='Label'>Plate 17</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Interior Details from the Norris House on Winton Road, <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 18</unitid>
+                    <unitid label='Label'>Plate 18</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Entrance to the Ward House on College Ave <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 19</unitid>
+                    <unitid label='Label'>Plate 19</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Entrance to the Chappell House, 103 Plymouth Ave</unittitle>
-                    <unitid>Plate 20</unitid>
+                    <unitid label='Label'>Plate 20</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Mantel in the Chappell House, 103 Plymouth Ave, <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 21</unitid>
+                    <unitid label='Label'>Plate 21</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>The Front Entrance to the Caleb Bicknell House, Spring St., <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 22</unitid>
+                    <unitid label='Label'>Plate 22</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Mantel in the Parlor of the Bicknell House, Spring St., <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 23</unitid>
+                    <unitid label='Label'>Plate 23</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Typical Interior Details from the Caleb Bicknell House, Spring St., <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 24</unitid>
+                    <unitid label='Label'>Plate 24</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Entrance to the Briggs House, Highland Ave, <geogname>Rochester, NY</geogname> built 1817 Now Destroyed</unittitle>
-                    <unitid>Plate 25</unitid>
+                    <unitid label='Label'>Plate 25</unitid>
                     <note><p>3 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Front Entrance to the Culver House East Boulevard, <geogname>Rochester, NY</geogname> Erected 1818</unittitle>
-                    <unitid>Plate 26</unitid>
+                    <unitid label='Label'>Plate 26</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Front Entrance to the Culver House, East Boulevard, <geogname>Rochester, NY</geogname> Erected 1818</unittitle>
-                    <unitid>Plate 27</unitid>
+                    <unitid label='Label'>Plate 27</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Side Entrance to the Culver House, East Boulevard <geogname>Rochester, NY</geogname> Erected 1818</unittitle>
-                    <unitid>Plate 28</unitid>
+                    <unitid label='Label'>Plate 28</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Interior Details of the Culver House, East Boulevard <geogname>Rochester, NY</geogname> Erected 1818</unittitle>
-                    <unitid>Plate 29</unitid>
+                    <unitid label='Label'>Plate 29</unitid>
                     <note><p>3 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Mantel in Bedroom of Culver House, East Boulevard Originally Located on East Ave. <geogname>Rochester, NY</geogname> Erected 1818</unittitle>
-                    <unitid>Plate 30</unitid>
+                    <unitid label='Label'>Plate 30</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Mantel inn Front Parlor Culver House East boulevard <geogname>Rochester, NY</geogname> Erected about 1818</unittitle>
-                    <unitid>Plate 31</unitid>
+                    <unitid label='Label'>Plate 31</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Mantel in Rear Parlor in the Oliver Culver House East Boulevard <geogname>Rochester, NY</geogname> Erected about 1818</unittitle>
-                    <unitid>Plate 32</unitid>
+                    <unitid label='Label'>Plate 32</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Mantel in Second Floor Granger House <geogname>Canandaigua, NY</geogname> Erected about 1816</unittitle>
-                    <unitid>Plate 33</unitid>
+                    <unitid label='Label'>Plate 33</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Main Entrance Door to the McKechnie House, <geogname>Canandaigua, NY</geogname></unittitle>
-                    <unitid>Plate 34</unitid>
+                    <unitid label='Label'>Plate 34</unitid>
                     <note><p>3 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Porch on Side of House Phelps House <geogname>Canandaigua NY</geogname> Erected about 1813</unittitle>
-                    <unitid>Plate 35</unitid>
+                    <unitid label='Label'>Plate 35</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Exterior Details from the Thomas Beals House, <geogname>Canandaigua, NY</geogname> Erected about 1825</unittitle>
-                    <unitid>Plate 36</unitid>
+                    <unitid label='Label'>Plate 36</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Entrance Door to an Old Tavern on the Road from <geogname>Canandaigua, NY</geogname> to <geogname>East Bloomfield, NY</geogname></unittitle>
-                    <unitid>Plate 37</unitid>
+                    <unitid label='Label'>Plate 37</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Entrance Door The Gorham House <geogname>Canandaigua, NY</geogname> Built about 1812</unittitle>
-                    <unitid>Plate 38</unitid>
+                    <unitid label='Label'>Plate 38</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Entrance Door the Gorham House <geogname>Canandaigua, NY</geogname> Built about 1812</unittitle>
-                    <unitid>Plate 39</unitid>
+                    <unitid label='Label'>Plate 39</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>House on South Main Street <geogname>Geneva, NY</geogname></unittitle>
-                    <unitid>Plate 40</unitid>
+                    <unitid label='Label'>Plate 40</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Mantel in Parlor Blum House Erected about 1818 near <geogname>Ithaca, NY</geogname></unittitle>
-                    <unitid>Plate 41</unitid>
+                    <unitid label='Label'>Plate 41</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>The Holland Land Office Erected in 1815 <geogname>Batavia, NY</geogname></unittitle>
-                    <unitid>Plate 42</unitid>
+                    <unitid label='Label'>Plate 42</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Kitchen Fireplace in the Henry Groves House <geogname>Clarkson, NY</geogname> Erected in 1821</unittitle>
-                    <unitid>Plate 43</unitid>
+                    <unitid label='Label'>Plate 43</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Types of Colonial Windows. Window from the Phelps House <geogname>Canandaigua, NY</geogname> Erected about 1813</unittitle>
-                    <unitid>Plate 44</unitid>
+                    <unitid label='Label'>Plate 44</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Colonial Fences and Lattice Work. Gateway Phelps House <geogname>Canandaigua, NY</geogname></unittitle>
-                    <unitid>Plate 45</unitid>
+                    <unitid label='Label'>Plate 45</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Bishop Porter House, <geogname>Deerfield, MA</geogname> Built in 1803</unittitle>
-                    <unitid>Plate 46</unitid>
+                    <unitid label='Label'>Plate 46</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Entrance to n Old House in <geogname>Deerfield, MA</geogname> Built about 1820</unittitle>
-                    <unitid>Plate 47</unitid>
+                    <unitid label='Label'>Plate 47</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>North Parlor in the Parsons Williams House, <geogname>Deerfield, MA</geogname></unittitle>
-                    <unitid>Plate 48</unitid>
+                    <unitid label='Label'>Plate 48</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Details from Parlor from the Parsons Williams House, <geogname>Deerfield, MA</geogname></unittitle>
-                    <unitid>Plate 49</unitid>
+                    <unitid label='Label'>Plate 49</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>South Door Old Swedes Church <geogname>Philadelphia, PA</geogname></unittitle>
-                    <unitid>Plate 50</unitid>
+                    <unitid label='Label'>Plate 50</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Details of Marble Mantel in "The Woodlands" <geogname>Philadelphia, PA</geogname></unittitle>
-                    <unitid>Plate 51</unitid>
+                    <unitid label='Label'>Plate 51</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>The North Door to the Campbell-Whittlesey House Corner South Fitzhugh and Troup Streets, <geogname>Rochester, NY</geogname> Erected about 1835-7</unittitle>
-                    <unitid>Plate 52</unitid>
+                    <unitid label='Label'>Plate 52</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>The Rear Door of the Whittlesey House Corner South Fitzhugh and Troup St <geogname>Rochester, NY</geogname> Erected about 1835-7</unittitle>
-                    <unitid>Plate 53</unitid>
+                    <unitid label='Label'>Plate 53</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Details from the East Parlor the Campbell-Whittlesey House S. Fitzhugh &amp; Troup St. <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 54</unitid>
+                    <unitid label='Label'>Plate 54</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Details from the East Parlor the Campbell-Whittlesey House S. Fitzhugh &amp; Troup St. <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 55</unitid>
+                    <unitid label='Label'>Plate 55</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Main Entrance to Hoyt-Pond House Plymouth Ave <geogname>South Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 56</unitid>
+                    <unitid label='Label'>Plate 56</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Elevations and Details from the Living Room of the Hoyt House, Plymouth Ave., <geogname>South Rochester, NY</geogname> Erected about 1826, Remodeled about 1850</unittitle>
-                    <unitid>Plate 57</unitid>
+                    <unitid label='Label'>Plate 57</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Full Size Profiles of Mouldings from the Hoyt House, Plymouth Ave., <geogname>South Rochester, NY</geogname> Erected about 1826, Remodeled abut 1850</unittitle>
-                    <unitid>Plate 58</unitid>
+                    <unitid label='Label'>Plate 58</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Main Entrance to the Erickson-Perkins House, 421 East Avenue, <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 59</unitid>
+                    <unitid label='Label'>Plate 59</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Various Interior Details from the The Perkins House, Now the Genesee Valley Club, East Ave. <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 60</unitid>
+                    <unitid label='Label'>Plate 60</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>The Main Entrance to the Hervey Ely House, Now the D.A.R. Livingston Park <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 61</unitid>
+                    <unitid label='Label'>Plate 61</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Various Details from the Hervey Ely House, Now the D.A.R. Livingston Park <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 62</unitid>
+                    <unitid label='Label'>Plate 62</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Library in the Hervey Ely House, Now the D.A.R. Cor. Livingston Park and Troup St.,<geogname>Rochester, NY</geogname> Built in the late 1820's</unittitle>
-                    <unitid>Plate 63</unitid>
+                    <unitid label='Label'>Plate 63</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Library Details in the Hervey Ely House, Now the D.A.R. Cor. Livingston Park and Troup St.,<geogname>Rochester, NY</geogname> Built in the late 1820's</unittitle>
-                    <unitid>Plate 64</unitid>
+                    <unitid label='Label'>Plate 64</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Three Examples of the Simple Greek Revival Entrance Door in <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 65</unitid>
+                    <unitid label='Label'>Plate 65</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>House at 25 Clarissa Street <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 66</unitid>
+                    <unitid label='Label'>Plate 66</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Greek Revival Ornament</unittitle>
-                    <unitid>Plate 67</unitid>
+                    <unitid label='Label'>Plate 67</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>The Front Bedroom in the Isaac Hills House Plymouth Ave. <geogname>South Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 68</unitid>
+                    <unitid label='Label'>Plate 68</unitid>
                     <note><p>Duplicate plate number but different title and drawing</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Entrance Door and Window Details of the 1838 Addition to the Livingstone Park Seminary, Livingston Park and Troup Street, <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 68</unitid>
+                    <unitid label='Label'>Plate 68</unitid>
                     <note><p>Duplicate plate number but different title and drawing</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Details from the Entrance Door and Window 1838 Addition to the Livingston Park Seminary, Livingston Pk. and Spring St. <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>Plate 69</unitid>
+                    <unitid label='Label'>Plate 69</unitid>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Atypical Example of the Greek Revival House on Genesee Street <geogname>Geneva, NY</geogname></unittitle>
-                    <unitid>Plate 70</unitid>
+                    <unitid label='Label'>Plate 70</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Main Entrance to the Boody House Tose Hill on <geogname>Seneca Lake</geogname> built around 1835</unittitle>
-                    <unitid>Plate 71</unitid>
+                    <unitid label='Label'>Plate 71</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Details of Main entrance to the Boody House Rose Hill on <geogname>Seneca Lake</geogname> built about 1835</unittitle>
-                    <unitid>Plate 72</unitid>
+                    <unitid label='Label'>Plate 72</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Door from Hall to Rear Porch Rose Hill Mansion near <geogname>Geneva, NY</geogname></unittitle>
-                    <unitid>Plate 73</unitid>
+                    <unitid label='Label'>Plate 73</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Entrance on North Side of Rose Hill Mansion on <geogname>Seneca Lake</geogname></unittitle>
-                    <unitid>Plate 74</unitid>
+                    <unitid label='Label'>Plate 74</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Details of Entrance on North Side Rose Hill Manson on <geogname>Seneca Lake</geogname></unittitle>
-                    <unitid>Plate 75</unitid>
+                    <unitid label='Label'>Plate 75</unitid>
                     <note><p>2 copies</p></note>
                 </did>
             </c03>
             <c03>
                 <did>
                     <unittitle>Profiles of Mouldings from the Classic Greek</unittitle>
-                    <unitid>No plate number</unitid>
+                    <unitid label='Label'>No plate number</unitid>
                 </did>
             </c03>
             
@@ -3285,632 +3285,632 @@
                 
             </c03>
         </c02>
-        <c02 level="subseries" id="drawer3">
+        <c02 id='drawer3' level='subseries'>
           <did>
-            <unittitle label="Subject">Colonial and Postcolonial Details</unittitle>
+            <unittitle label='Subject'>Colonial and Postcolonial Details</unittitle>
               <physdesc>110 architectural drawings. 105 are size 24in X 35in and 5 are size 36in x 48in. All plates measured and drawn by Carl Schmidt</physdesc>
             <physloc>Drawer 3</physloc>
           </did>
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Elevation of Front Entrance Gay Manse <geogname>Suffield, CT</geogname> </unittitle> 
-            	 	 <unitid>Plate 1</unitid> 
-            	 </did> 
+               <did> 
+                 <unittitle>Elevation of Front Entrance Gay Manse <geogname>Suffield, CT</geogname> </unittitle> 
+                 <unitid label='Label'>Plate 1</unitid> 
+               </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Details of Front Entrance Gay Manse <geogname>Suffield, CT</geogname></unittitle> 
-            	 	 <unitid>Plate 2</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Details of Front Entrance Gay Manse <geogname>Suffield, CT</geogname></unittitle> 
+                 <unitid label='Label'>Plate 2</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the Rev. Russell House <geogname>Windsor, CT</geogname></unittitle> 
-            	 	 <unitid>Plate 3</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the Rev. Russell House <geogname>Windsor, CT</geogname></unittitle> 
+                 <unitid label='Label'>Plate 3</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the Charlotte Porter House <geogname>Hadley, MA</geogname></unittitle> 
-            	 	 <unitid>Plate 4</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the Charlotte Porter House <geogname>Hadley, MA</geogname></unittitle> 
+                 <unitid label='Label'>Plate 4</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Exterior Windows: Gay Manse <geogname>Suffield, CT</geogname> &amp; Bassett House <geogname>Hamden, CT</geogname></unittitle> 
-            	 	 <unitid>Plate 5</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Exterior Windows: Gay Manse <geogname>Suffield, CT</geogname> &amp; Bassett House <geogname>Hamden, CT</geogname></unittitle> 
+                 <unitid label='Label'>Plate 5</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to House <geogname>Bedford, MA</geogname></unittitle> 
-            	 	 <unitid>Plate 6</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to House <geogname>Bedford, MA</geogname></unittitle> 
+                 <unitid label='Label'>Plate 6</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to House <geogname>Plymouth, MA</geogname></unittitle> 
-            	 	 <unitid>Plate 7</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to House <geogname>Plymouth, MA</geogname></unittitle> 
+                 <unitid label='Label'>Plate 7</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to Dr. Blaines House <geogname>Mattapoisett, MA</geogname></unittitle> 
-            	 	 <unitid>Plate 8</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to Dr. Blaines House <geogname>Mattapoisett, MA</geogname></unittitle> 
+                 <unitid label='Label'>Plate 8</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Elevation of Entrance Mrs Charles Frost Residence <geogname>Woodstock, VT</geogname></unittitle> 
-            	 	 <unitid>Plate 9</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Elevation of Entrance Mrs Charles Frost Residence <geogname>Woodstock, VT</geogname></unittitle> 
+                 <unitid label='Label'>Plate 9</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Mantel from the Front Parlor of the Sheldon Museum <geogname>Middlebury, VT</geogname></unittitle> 
-            	 	 <unitid>Plate 10</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Mantel from the Front Parlor of the Sheldon Museum <geogname>Middlebury, VT</geogname></unittitle> 
+                 <unitid label='Label'>Plate 10</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Mantel in Farm House <geogname>Windsor, VT</geogname></unittitle> 
-            	 	 <unitid>Plate 11</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Mantel in Farm House <geogname>Windsor, VT</geogname></unittitle> 
+                 <unitid label='Label'>Plate 11</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Interior Details from House at 55 Church St. <geogname>St. Charleston, SC</geogname></unittitle> 
-            	 	 <unitid>Plate 12</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Interior Details from House at 55 Church St. <geogname>St. Charleston, SC</geogname></unittitle> 
+                 <unitid label='Label'>Plate 12</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Mantel on Second Floor Congress Hall <geogname>Philadelphia, PA</geogname></unittitle> 
-            	 	 <unitid>Plate 13</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Mantel on Second Floor Congress Hall <geogname>Philadelphia, PA</geogname></unittitle> 
+                 <unitid label='Label'>Plate 13</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Doors: Christ Church <geogname>Philadelphia, PA</geogname> &amp; Second Floor Congress Hall <geogname>Philadelphia, PA</geogname></unittitle> 
-            	 	 <unitid>Plate 14</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Doors: Christ Church <geogname>Philadelphia, PA</geogname> &amp; Second Floor Congress Hall <geogname>Philadelphia, PA</geogname></unittitle> 
+                 <unitid label='Label'>Plate 14</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance Door to "Wyck" House <geogname>Germantown, PA</geogname></unittitle> 
-            	 	 <unitid>Plate 15</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance Door to "Wyck" House <geogname>Germantown, PA</geogname></unittitle> 
+                 <unitid label='Label'>Plate 15</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Doors: Quaker School 108 Quarry St. <geogname>Philadelphia, PA</geogname> &amp; Green Tree Tavern <geogname>Germantown, PA</geogname></unittitle> 
-            	 	 <unitid>Plate 16</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Doors: Quaker School 108 Quarry St. <geogname>Philadelphia, PA</geogname> &amp; Green Tree Tavern <geogname>Germantown, PA</geogname></unittitle> 
+                 <unitid label='Label'>Plate 16</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Mantel in the East Room The Bland Tavern <geogname>Williamsburg, VA</geogname></unittitle> 
-            	 	 <unitid>Plate 17</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Mantel in the East Room The Bland Tavern <geogname>Williamsburg, VA</geogname></unittitle> 
+                 <unitid label='Label'>Plate 17</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Tower Entrance Burton Parish Church <geogname>Williamsburg, VA</geogname></unittitle> 
-            	 	 <unitid>Plate 18</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Tower Entrance Burton Parish Church <geogname>Williamsburg, VA</geogname></unittitle> 
+                 <unitid label='Label'>Plate 18</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Details from Parlor from "The Markham Place" <geogname>Avon, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 19</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Details from Parlor from "The Markham Place" <geogname>Avon, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 19</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Interior Details from the "The Markham Place" <geogname>Avon, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 20</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Interior Details from the "The Markham Place" <geogname>Avon, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 20</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the Clark Keith House <geogname>Caledonia, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 21</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the Clark Keith House <geogname>Caledonia, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 21</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance Details to the Clark Keith House <geogname>Caledonia, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 22</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance Details to the Clark Keith House <geogname>Caledonia, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 22</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Mantel in Parlor Clark Keith House <geogname>Caledonia, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 23</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Mantel in Parlor Clark Keith House <geogname>Caledonia, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 23</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Parlor Details from the Clark Keith House <geogname>Caledonia, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 24</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Parlor Details from the Clark Keith House <geogname>Caledonia, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 24</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Kitchen Fireplace in the Clark Keith House <geogname>Caledonia, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 25</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Kitchen Fireplace in the Clark Keith House <geogname>Caledonia, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 25</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the Seymour Ronalds House <geogname>Canandaigua, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 26</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the Seymour Ronalds House <geogname>Canandaigua, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 26</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to "Lorenzo", built by John Lincklaen <geogname>Cazenovia, NY</geogname> erected in 1807</unittitle> 
-            	 	 <unitid>Plate 27</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to "Lorenzo", built by John Lincklaen <geogname>Cazenovia, NY</geogname> erected in 1807</unittitle> 
+                 <unitid label='Label'>Plate 27</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Entrance to "Lorenzo", built by John Lincklaen <geogname>Cazenovia, NY</geogname> erected in 1807</unittitle> 
-            	 	 <unitid>Plate 28</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Entrance to "Lorenzo", built by John Lincklaen <geogname>Cazenovia, NY</geogname> erected in 1807</unittitle> 
+                 <unitid label='Label'>Plate 28</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Corner Pilasters Groves Gallup House <geogname>Clarkson, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 29</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Corner Pilasters Groves Gallup House <geogname>Clarkson, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 29</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Front Entrance to the Grover Gallup House <geogname>Clarkson, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 30</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Front Entrance to the Grover Gallup House <geogname>Clarkson, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 30</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Mantel in Parlor Groves Gallup House <geogname>Clarkson, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 31</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Mantel in Parlor Groves Gallup House <geogname>Clarkson, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 31</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Stair Details: Isaac Hills House <geogname>Rochester, NY</geogname> &amp; Grover Gallup House <geogname>Clarkson, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 32</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Stair Details: Isaac Hills House <geogname>Rochester, NY</geogname> &amp; Grover Gallup House <geogname>Clarkson, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 32</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Interior Details from the Grover Gallup House <geogname>Clarkson, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 33</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Interior Details from the Grover Gallup House <geogname>Clarkson, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 33</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to Mrs Mable Redman House <geogname>Clarkson, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 34</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to Mrs Mable Redman House <geogname>Clarkson, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 34</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to Cottage on Ridge Rd. <geogname>Clarkson, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 35</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to Cottage on Ridge Rd. <geogname>Clarkson, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 35</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the Pettibone Hackett House <geogname>Elba, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 36</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the Pettibone Hackett House <geogname>Elba, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 36</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance Details to Pettibone Hackett House <geogname>Elba NY</geogname></unittitle> 
-            	 	 <unitid>Plate 37</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance Details to Pettibone Hackett House <geogname>Elba NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 37</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Details from the Parlor of the Philip Garbutt House <geogname>Garbutt, NY</geogname> erected 1825</unittitle> 
-            	 	 <unitid>Plate 38</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Details from the Parlor of the Philip Garbutt House <geogname>Garbutt, NY</geogname> erected 1825</unittitle> 
+                 <unitid label='Label'>Plate 38</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Mantel in East Room Philip Garbutt House <geogname>Garbutt, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 39</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Mantel in East Room Philip Garbutt House <geogname>Garbutt, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 39</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the Folger House <geogname>Geneva, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 40</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the Folger House <geogname>Geneva, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 40</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Details from Entrance to the Folger House <geogname>Geneva, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 41</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Details from Entrance to the Folger House <geogname>Geneva, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 41</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Post Colonial Entrance Door on South Main St., <geogname>Geneva, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 42</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Post Colonial Entrance Door on South Main St., <geogname>Geneva, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 42</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the Vance Durney House 57 Second St. <geogname>Geneseo, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 43</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the Vance Durney House 57 Second St. <geogname>Geneseo, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 43</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Entrance to the Vance Durney House 57 Second St. <geogname>Geneseo, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 44</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Entrance to the Vance Durney House 57 Second St. <geogname>Geneseo, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 44</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Mantel in Front Parlor the Allen Ayraults House, now the Big Tree Inn <geogname>Geneseo, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 45</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Mantel in Front Parlor the Allen Ayraults House, now the Big Tree Inn <geogname>Geneseo, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 45</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Opening beterrn Parlors Sliding Doors, Allen Ayraults House, now the Big Tree Inn <geogname>Geneseo, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 46</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Opening beterrn Parlors Sliding Doors, Allen Ayraults House, now the Big Tree Inn <geogname>Geneseo, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 46</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the Sisson Dodge House <geogname>Greigsville, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 47</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the Sisson Dodge House <geogname>Greigsville, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 47</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Post Vogel House <geogname>Henrietta, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 48</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Post Vogel House <geogname>Henrietta, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 48</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to Edward Swift House <geogname>East Henrietta, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 49</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to Edward Swift House <geogname>East Henrietta, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 49</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the Blodgett Spellman House <geogname>Leroy, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 50</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the Blodgett Spellman House <geogname>Leroy, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 50</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the United Church of Christ Parsonage <geogname>Morganville, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 51</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the United Church of Christ Parsonage <geogname>Morganville, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 51</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the Exchange Hotel, now the Community Building <geogname>Mumford, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 52</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the Exchange Hotel, now the Community Building <geogname>Mumford, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 52</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Cornice to One Story Stone Shop <geogname>Mumford, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 53</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Cornice to One Story Stone Shop <geogname>Mumford, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 53</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Once Known as the Donnelly House an Early Tavern <geogname>Mumford, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 54</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Once Known as the Donnelly House an Early Tavern <geogname>Mumford, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 54</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Front entrance to the Starr House <geogname>Pavilion, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 55</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Front entrance to the Starr House <geogname>Pavilion, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 55</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>31 Monroe Ave. <geogname>Pittsford, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 56</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>31 Monroe Ave. <geogname>Pittsford, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 56</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to House at 12 Monroe Ave. <geogname>Pittsford, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 57</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to House at 12 Monroe Ave. <geogname>Pittsford, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 57</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Pittsford Inn <geogname>Pittsford, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 58</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Pittsford Inn <geogname>Pittsford, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 58</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Mantel in Parlor of the Chappell House, 103 Plymouth Ave., <geogname>S. Rochester, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 59</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Mantel in Parlor of the Chappell House, 103 Plymouth Ave., <geogname>S. Rochester, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 59</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Details of Mantel in the Chappell House, 103 Plymouth Ave., <geogname>S. Rochester, NY</geogname> </unittitle> 
-            	 	 <unitid>Plate 60</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Details of Mantel in the Chappell House, 103 Plymouth Ave., <geogname>S. Rochester, NY</geogname> </unittitle> 
+                 <unitid label='Label'>Plate 60</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Front elevation The Culver Holahan House 70 East Blvd. <geogname>Rochester, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 61</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Front elevation The Culver Holahan House 70 East Blvd. <geogname>Rochester, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 61</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Floor Plan The Culver Holahan House 70 East Blvd. <geogname>Rochester, NY</geogname> </unittitle> 
-            	 	 <unitid>Plate 62</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Floor Plan The Culver Holahan House 70 East Blvd. <geogname>Rochester, NY</geogname> </unittitle> 
+                 <unitid label='Label'>Plate 62</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Mantel in Kitchen in The Culver Holahan House 70 East Blvd. <geogname>Rochester, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 63</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Mantel in Kitchen in The Culver Holahan House 70 East Blvd. <geogname>Rochester, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 63</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the Isaac Hills House <geogname>Rochester, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 64</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the Isaac Hills House <geogname>Rochester, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 64</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Interior Details from the Isaac Hills House <geogname>Rochester, NY</geogname> now demolished</unittitle> 
-            	 	 <unitid>Plate 65</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Interior Details from the Isaac Hills House <geogname>Rochester, NY</geogname> now demolished</unittitle> 
+                 <unitid label='Label'>Plate 65</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Interior Details from the Isaac Hills House <geogname>Rochester, NY</geogname> now demolished</unittitle> 
-            	 	 <unitid>Plate 66</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Interior Details from the Isaac Hills House <geogname>Rochester, NY</geogname> now demolished</unittitle> 
+                 <unitid label='Label'>Plate 66</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Mantel from the Kendrick House</unittitle> 
-            	 	 <unitid>Plate 67</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Mantel from the Kendrick House</unittitle> 
+                 <unitid label='Label'>Plate 67</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Windows from the Livingston Park Seminary <geogname>Rochester, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 68</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Windows from the Livingston Park Seminary <geogname>Rochester, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 68</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Interior Doors from the Livingston Park Seminary <geogname>Rochester, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 69</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Interior Doors from the Livingston Park Seminary <geogname>Rochester, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 69</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Mantel in Bedroom Livingston Park Seminary <geogname>Rochester, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 70</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Mantel in Bedroom Livingston Park Seminary <geogname>Rochester, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 70</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance in <geogname>Sackets Harbor, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 71</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance in <geogname>Sackets Harbor, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 71</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the Bock Bush House <geogname>Rush, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 72</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the Bock Bush House <geogname>Rush, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 72</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Mantel in Bedroom Hallock Keyes House <geogname>Rush, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 73</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Mantel in Bedroom Hallock Keyes House <geogname>Rush, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 73</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Front Entrance on the Abraham Hanford house, now part of Slocum's Hardware Store <geogname>Scottsville, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 74</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Front Entrance on the Abraham Hanford house, now part of Slocum's Hardware Store <geogname>Scottsville, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 74</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Mantel in Abraham Hanford house, now part of Slocum's Hardware Store <geogname>Scottsville, NY</geogname> </unittitle> 
-            	 	 <unitid>Plate 75</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Mantel in Abraham Hanford house, now part of Slocum's Hardware Store <geogname>Scottsville, NY</geogname> </unittitle> 
+                 <unitid label='Label'>Plate 75</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Elevation of Mantel Abraham Hanford house, now part of Slocum's Hardware Store <geogname>Scottsville, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 76</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Elevation of Mantel Abraham Hanford house, now part of Slocum's Hardware Store <geogname>Scottsville, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 76</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Elevation of Mantel Abraham Hanford house, now part of Slocum's Hardware Store <geogname>Scottsville, NY</geogname> </unittitle> 
-            	 	 <unitid>Plate 77</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Elevation of Mantel Abraham Hanford house, now part of Slocum's Hardware Store <geogname>Scottsville, NY</geogname> </unittitle> 
+                 <unitid label='Label'>Plate 77</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Post Colonial Interior Doors fro the Town of <geogname>Wheatland, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 78</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Post Colonial Interior Doors fro the Town of <geogname>Wheatland, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 78</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Shadbolt Stokoe House <geogname>Scottsville, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 79</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Shadbolt Stokoe House <geogname>Scottsville, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 79</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Elevation of Mantel from the Shadbolt Stokoe House <geogname>Scottsville, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 80</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Elevation of Mantel from the Shadbolt Stokoe House <geogname>Scottsville, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 80</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Elevation of Mantel from the Shadbolt Stokoe House <geogname>Scottsville, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 81</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Elevation of Mantel from the Shadbolt Stokoe House <geogname>Scottsville, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 81</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to Balintine Krenzer House <geogname>Chili, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 82</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to Balintine Krenzer House <geogname>Chili, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 82</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Mantel in Parlor Balintine Krenzer House <geogname>Chili, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 83</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Mantel in Parlor Balintine Krenzer House <geogname>Chili, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 83</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Interior Details from the Balintine Krenzer House <geogname>Chili, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 84</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Interior Details from the Balintine Krenzer House <geogname>Chili, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 84</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance to the Cobbs House <geogname>Spencerport, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 85</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance to the Cobbs House <geogname>Spencerport, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 85</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Parlor Mantel from the Davis Mahar House <geogname>Stone Church, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 86</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Parlor Mantel from the Davis Mahar House <geogname>Stone Church, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 86</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Mantel in the Davis Mahar House <geogname>Stone Church, NY</geogname> </unittitle> 
-            	 	 <unitid>Plate 87</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Mantel in the Davis Mahar House <geogname>Stone Church, NY</geogname> </unittitle> 
+                 <unitid label='Label'>Plate 87</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Interior Details from the Davis Mahar House <geogname>Stone Church, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 88</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Interior Details from the Davis Mahar House <geogname>Stone Church, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 88</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
                 <did>
                     <unittitle>Unknown</unittitle>
-                    <unitid>Plate 89</unitid>
+                    <unitid label='Label'>Plate 89</unitid>
                     <note><p>Not received as of 8/5/1975</p></note>
                 </did> 
             </c03>
@@ -3918,7 +3918,7 @@
             <c03> 
                 <did>
                     <unittitle>Unknown</unittitle>
-                    <unitid>Plate 90</unitid>
+                    <unitid label='Label'>Plate 90</unitid>
                     <note><p>Not received as of 8/5/1975</p></note>
                 </did> 
             </c03>
@@ -3926,30 +3926,22 @@
             <c03> 
                 <did>
                     <unittitle>Unknown</unittitle>
-                    <unitid>Plate 91</unitid>
+                    <unitid label='Label'>Plate 91</unitid>
                     <note><p>Not received as of 8/5/1975</p></note>
                 </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	     <unittitle>Not yet received 8/6/75</unittitle> 
-            	 	 <unitid>Plate 92</unitid> 
-            	 	  </did> 
+               <did> 
+                   <unittitle>Not yet received 8/6/75</unittitle> 
+                 <unitid label='Label'>Plate 92</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
                 <did>
                     <unittitle>Unknown</unittitle>
-                    <unitid>Plate 93</unitid>
-                    <note><p>Not received as of 8/5/1975</p></note>
-                </did> 
-            </c03>
-           
-            <c03> 
-                <did>
-                    <unittitle>Unknown</unittitle>
-                    <unitid>Plate 94</unitid>
+                    <unitid label='Label'>Plate 93</unitid>
                     <note><p>Not received as of 8/5/1975</p></note>
                 </did> 
             </c03>
@@ -3957,7 +3949,7 @@
             <c03> 
                 <did>
                     <unittitle>Unknown</unittitle>
-                    <unitid>Plate 95</unitid>
+                    <unitid label='Label'>Plate 94</unitid>
                     <note><p>Not received as of 8/5/1975</p></note>
                 </did> 
             </c03>
@@ -3965,7 +3957,7 @@
             <c03> 
                 <did>
                     <unittitle>Unknown</unittitle>
-                    <unitid>Plate 96</unitid>
+                    <unitid label='Label'>Plate 95</unitid>
                     <note><p>Not received as of 8/5/1975</p></note>
                 </did> 
             </c03>
@@ -3973,7 +3965,15 @@
             <c03> 
                 <did>
                     <unittitle>Unknown</unittitle>
-                    <unitid>Plate 97</unitid>
+                    <unitid label='Label'>Plate 96</unitid>
+                    <note><p>Not received as of 8/5/1975</p></note>
+                </did> 
+            </c03>
+           
+            <c03> 
+                <did>
+                    <unittitle>Unknown</unittitle>
+                    <unitid label='Label'>Plate 97</unitid>
                     <note><p>Not received as of 8/5/1975</p></note>
                 </did>
             </c03>
@@ -3981,7 +3981,7 @@
             <c03> 
                 <did>
                     <unittitle>Unknown</unittitle>
-                    <unitid>Plate 98</unitid>
+                    <unitid label='Label'>Plate 98</unitid>
                     <note><p>Not received as of 8/5/1975</p></note>
                 </did> 
             </c03>
@@ -3989,7 +3989,7 @@
             <c03> 
                 <did>
                     <unittitle>Unknown</unittitle>
-                    <unitid>Plate 99</unitid>
+                    <unitid label='Label'>Plate 99</unitid>
                     <note><p>Not received as of 8/5/1975</p></note>
                 </did> 
             </c03>
@@ -3997,520 +3997,520 @@
             <c03> 
                 <did>
                     <unittitle>Unknown</unittitle>
-                    <unitid>Plate 100</unitid>
+                    <unitid label='Label'>Plate 100</unitid>
                     <note><p>Not received as of 8/5/1975</p></note>
                 </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Entrance Door to House on S. Main St. <geogname>Geneva, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 101</unitid> 
-            	     <note><p>Duplicate plate number but different title and drawing</p></note>
-            	 	  </did> 
+               <did> 
+                 <unittitle>Entrance Door to House on S. Main St. <geogname>Geneva, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 101</unitid> 
+                   <note><p>Duplicate plate number but different title and drawing</p></note>
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Stairhall in the Thompson Tavern <geogname>Riga, NY</geogname> built in 1808, now located in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle> 
-            	 	 <unitid>Plate 101</unitid> 
-            	     <note><p>Duplicate plate number but different title and drawing</p></note>
-            	 	  </did> 
+               <did> 
+                 <unittitle>Stairhall in the Thompson Tavern <geogname>Riga, NY</geogname> built in 1808, now located in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle> 
+                 <unitid label='Label'>Plate 101</unitid> 
+                   <note><p>Duplicate plate number but different title and drawing</p></note>
+                  </did> 
             </c03>
             <c03>
                 <did>
                     <unittitle>Mantels from Joseph Thompson's Tavern <geogname>Riga, NY</geogname> now located in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
-                    <unitid></unitid>
+                    <unitid label='Label'/>
                 </did>
             </c03>
             
             <c03> 
                 <did>
                     <unittitle>Unknown</unittitle>
-                    <unitid>Plate 103</unitid>
+                    <unitid label='Label'>Plate 103</unitid>
                     <note><p>Not received as of 8/5/1975</p></note>
                 </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Green Tree Tavern <geogname>Germantown, PA</geogname></unittitle> 
-            	 	 <unitid>Plate 2</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Green Tree Tavern <geogname>Germantown, PA</geogname></unittitle> 
+                 <unitid label='Label'>Plate 2</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Doors: Christ Church <geogname>Philadelphia, PA</geogname> &amp; "Wyck" House <geogname>Germantown, PA</geogname> 1690c</unittitle> 
-            	 	 <unitid>Plate 3</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Doors: Christ Church <geogname>Philadelphia, PA</geogname> &amp; "Wyck" House <geogname>Germantown, PA</geogname> 1690c</unittitle> 
+                 <unitid label='Label'>Plate 3</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Second Floor Congress Hall <geogname>Philadelphia, PA</geogname></unittitle> 
-            	 	 <unitid>Plate 7</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Second Floor Congress Hall <geogname>Philadelphia, PA</geogname></unittitle> 
+                 <unitid label='Label'>Plate 7</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Full Size Details Typical Philadelphia Mouldings <geogname>Philadelphia, PA</geogname></unittitle> 
-            	 	 <unitid>Plate 10</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Full Size Details Typical Philadelphia Mouldings <geogname>Philadelphia, PA</geogname></unittitle> 
+                 <unitid label='Label'>Plate 10</unitid> 
+                  </did> 
             </c03>
            
             <c03> 
-            	 <did> 
-            	 	 <unittitle>Various Wrought Iron Work of Colonial Days</unittitle> 
-            	 	 <unitid>Plate 20</unitid> 
-            	 	  </did> 
+               <did> 
+                 <unittitle>Various Wrought Iron Work of Colonial Days</unittitle> 
+                 <unitid label='Label'>Plate 20</unitid> 
+                  </did> 
             </c03>                       
         </c02>
-        <c02 level="subseries" id="drawer4">
+        <c02 id='drawer4' level='subseries'>
           <did>
-            <unittitle label="Subject">Entrances &amp; Fences, Gates and Gardens</unittitle>
+            <unittitle label='Subject'>Entrances &amp; Fences, Gates and Gardens</unittitle>
               <physdesc>64 architectural drawings size 24in X 35in. All plates measured and drawn by Carl Schmidt</physdesc>
             <physloc>Drawer 4</physloc>
           </did>
             <c03> 
-              	 <did> 
-              	 	 <unittitle>Lattice Fence Erickson Perkins House &amp; Rose Lattice Erickson Perkins House &amp; Fence and Gate Post Lyon Chapin House</unittitle> 
-              	 	 <unitid>Plate 1</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Lattice Fence Erickson Perkins House &amp; Rose Lattice Erickson Perkins House &amp; Fence and Gate Post Lyon Chapin House</unittitle> 
+                   <unitid label='Label'>Plate 1</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Arbor in Garden Erickson Perkins House <geogname>Rochester, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 2</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Arbor in Garden Erickson Perkins House <geogname>Rochester, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 2</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence at 471 Mt. Hope Ave., <geogname>Rochester, NY</geogname> now destroyed</unittitle> 
-              	 	 <unitid>Plate 3</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence at 471 Mt. Hope Ave., <geogname>Rochester, NY</geogname> now destroyed</unittitle> 
+                   <unitid label='Label'>Plate 3</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	     <unittitle>Fence and Gate at 471 Mt. Hope Ave., <geogname>Rochester, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 4</unitid> 
-              	 	  </did> 
+                 <did> 
+                     <unittitle>Fence and Gate at 471 Mt. Hope Ave., <geogname>Rochester, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 4</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence to Lyon Chapin House <geogname>Rochester, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 5</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence to Lyon Chapin House <geogname>Rochester, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 5</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence in Front of the Erickson Perkins House, now the Genesee valley Club <geogname>Rochester, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 6</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence in Front of the Erickson Perkins House, now the Genesee valley Club <geogname>Rochester, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 6</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	     <unittitle>Second St., Fence to residence of Mr. George Skivington <geogname>Scottsville, NY</geogname> &amp; Fence in front of East lot of the Erickson Perkins House, now the Genesee valley Club <geogname>Rochester, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 7</unitid> 
-              	 	  </did> 
+                 <did> 
+                     <unittitle>Second St., Fence to residence of Mr. George Skivington <geogname>Scottsville, NY</geogname> &amp; Fence in front of East lot of the Erickson Perkins House, now the Genesee valley Club <geogname>Rochester, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 7</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Lattice in the Garden of the Lyon Chapin House <geogname>Rochester, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 8</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Lattice in the Garden of the Lyon Chapin House <geogname>Rochester, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 8</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Garden House at Plymouth Ave., South Corner Atkinson St., <geogname>Rochester, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 9</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Garden House at Plymouth Ave., South Corner Atkinson St., <geogname>Rochester, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 9</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	     <unittitle>Garden House at Plymouth Ave., South Corner Atkinson St., <geogname>Rochester, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 10</unitid> 
-              	 	  </did> 
+                 <did> 
+                     <unittitle>Garden House at Plymouth Ave., South Corner Atkinson St., <geogname>Rochester, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 10</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence in front of the Jewett Pattison House <geogname>Clarkson, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 11</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence in front of the Jewett Pattison House <geogname>Clarkson, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 11</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Original Fence Around the Belcoda Cemetery <geogname>Wheatland, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 12</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Original Fence Around the Belcoda Cemetery <geogname>Wheatland, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 12</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	     <unittitle>Gate with Arch; Original Fence Around the Belcoda Cemetery <geogname>Wheatland, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 13</unitid> 
-              	 	  </did> 
+                 <did> 
+                     <unittitle>Gate with Arch; Original Fence Around the Belcoda Cemetery <geogname>Wheatland, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 13</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence to Edson Skivington House <geogname>Scottsville, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 14</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence to Edson Skivington House <geogname>Scottsville, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 14</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Garden House Originally Built in Garden of Isaac Budlong, Canawaugus Rd. Now in Garden of Elbert Carver <geogname>Scottsville, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 15</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Garden House Originally Built in Garden of Isaac Budlong, Canawaugus Rd. Now in Garden of Elbert Carver <geogname>Scottsville, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 15</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence Once Extending Across the Front of the Bettridge Stowe House <geogname>Riga, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 16</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence Once Extending Across the Front of the Bettridge Stowe House <geogname>Riga, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 16</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence and Gate to James Gilman House <geogname>Greece, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 17</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence and Gate to James Gilman House <geogname>Greece, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 17</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fragment of Fence at the Graney Hamilton House <geogname>Leroy, NY</geogname> &amp; Fragment of Fence Mt. Reed Blvd., <geogname>Greece, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 18</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fragment of Fence at the Graney Hamilton House <geogname>Leroy, NY</geogname> &amp; Fragment of Fence Mt. Reed Blvd., <geogname>Greece, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 18</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence and Gate, Residence of Mrs Judy MacFarland, Corner Reed Rd., Brockport-Bergen Rd.</unittitle> 
-              	 	 <unitid>Plate 19</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence and Gate, Residence of Mrs Judy MacFarland, Corner Reed Rd., Brockport-Bergen Rd.</unittitle> 
+                   <unitid label='Label'>Plate 19</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence on Christie Zornow Farm <geogname>Caledonia, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 20</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence on Christie Zornow Farm <geogname>Caledonia, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 20</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence to Residence of Mr. D.R. Sanders 39 South St., <geogname>Geneseo, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 21</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence to Residence of Mr. D.R. Sanders 39 South St., <geogname>Geneseo, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 21</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence in front of the Fellows House</unittitle> 
-              	 	 <unitid>Plate 22</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence in front of the Fellows House</unittitle> 
+                   <unitid label='Label'>Plate 22</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Well House at the Fellows House <geogname>Canawaugus, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 23</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Well House at the Fellows House <geogname>Canawaugus, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 23</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Garden House now in the Garden of Dr. and Mrs Joseph O'dea on the Geneseo-Avon Rd., <geogname>Geneseo, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 24</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Garden House now in the Garden of Dr. and Mrs Joseph O'dea on the Geneseo-Avon Rd., <geogname>Geneseo, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 24</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence in Front of the Residence of Mr Walter Coykendall <geogname>Avon, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 25</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence in Front of the Residence of Mr Walter Coykendall <geogname>Avon, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 25</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Well House in Yard of Lent Bissel House <geogname>Leroy, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 26</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Well House in Yard of Lent Bissel House <geogname>Leroy, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 26</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence Post on Main St., <geogname>Leroy, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 27</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence Post on Main St., <geogname>Leroy, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 27</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence and Gate to Residence of Sackett Ault House <geogname>Canandaigua, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 28</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence and Gate to Residence of Sackett Ault House <geogname>Canandaigua, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 28</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Gate at South Wing of the Phelps House <geogname>Canandaigua, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 29</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Gate at South Wing of the Phelps House <geogname>Canandaigua, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 29</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence in <geogname>Bath, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 30</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence in <geogname>Bath, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 30</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Garden House at 82 N. Portage St., <geogname>Westfield, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 31</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Garden House at 82 N. Portage St., <geogname>Westfield, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 31</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence in Front of the Charles N. Waldon House <geogname>Rensselaerville, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 32</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence in Front of the Charles N. Waldon House <geogname>Rensselaerville, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 32</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence and Gate to Property of Mrs Henry Ridgely <geogname>Rensselaerville</geogname></unittitle> 
-              	 	 <unitid>Plate 33</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence and Gate to Property of Mrs Henry Ridgely <geogname>Rensselaerville</geogname></unittitle> 
+                   <unitid label='Label'>Plate 33</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence on Property of Mrs Margaret Thompson <geogname>Claverack, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 34</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence on Property of Mrs Margaret Thompson <geogname>Claverack, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 34</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	     <unittitle>Gate and Fence on Property of Mrs Margaret Thompson <geogname>Claverack, NY</geogname></unittitle> 
-              	 	 <unitid>Plate 35</unitid> 
-              	 	  </did> 
+                 <did> 
+                     <unittitle>Gate and Fence on Property of Mrs Margaret Thompson <geogname>Claverack, NY</geogname></unittitle> 
+                   <unitid label='Label'>Plate 35</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence in front of the Harris Hufford Residence <geogname>Patriot, IN</geogname></unittitle> 
-              	 	 <unitid>Plate 36</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence in front of the Harris Hufford Residence <geogname>Patriot, IN</geogname></unittitle> 
+                   <unitid label='Label'>Plate 36</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence in front of "Rosalie" now D.A.R House <geogname>Natchez, MS</geogname></unittitle> 
-              	 	 <unitid>Plate 37</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence in front of "Rosalie" now D.A.R House <geogname>Natchez, MS</geogname></unittitle> 
+                   <unitid label='Label'>Plate 37</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence between Garden and St., Chase House <geogname>Annapolis, MD</geogname></unittitle> 
-              	 	 <unitid>Plate 38</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence between Garden and St., Chase House <geogname>Annapolis, MD</geogname></unittitle> 
+                   <unitid label='Label'>Plate 38</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence near Sugarloaf Mountain <geogname>Washington, D.C.</geogname></unittitle> 
-              	 	 <unitid>Plate 39</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence near Sugarloaf Mountain <geogname>Washington, D.C.</geogname></unittitle> 
+                   <unitid label='Label'>Plate 39</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Garden Wall, George Read House <geogname>New Castile, DE</geogname></unittitle> 
-              	 	 <unitid>Plate 40</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Garden Wall, George Read House <geogname>New Castile, DE</geogname></unittitle> 
+                   <unitid label='Label'>Plate 40</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Entrance Gate to Dickerson Estate now owned by Mrs Naomi Turner <geogname>Dover, DE</geogname></unittitle> 
-              	 	 <unitid>Plate 41</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Entrance Gate to Dickerson Estate now owned by Mrs Naomi Turner <geogname>Dover, DE</geogname></unittitle> 
+                   <unitid label='Label'>Plate 41</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence in front of the Lloyd Brinton House <geogname>Falls Village, CT</geogname></unittitle> 
-              	 	 <unitid>Plate 42</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence in front of the Lloyd Brinton House <geogname>Falls Village, CT</geogname></unittitle> 
+                   <unitid label='Label'>Plate 42</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	     <unittitle>Fence Around the Property of Mrs Lucius Burch <geogname>Falls Village, CT</geogname></unittitle> 
-              	 	 <unitid>Plate 43</unitid> 
-              	 	  </did> 
+                 <did> 
+                     <unittitle>Fence Around the Property of Mrs Lucius Burch <geogname>Falls Village, CT</geogname></unittitle> 
+                   <unitid label='Label'>Plate 43</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence and Gate in front of the Richard Quay House <geogname>Litchfield, Ct</geogname></unittitle> 
-              	 	 <unitid>Plate 44</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence and Gate in front of the Richard Quay House <geogname>Litchfield, Ct</geogname></unittitle> 
+                   <unitid label='Label'>Plate 44</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	     <unittitle>Full Size Details to Fence of the Richard Quay House <geogname>Litchfield, Ct</geogname></unittitle> 
-              	 	 <unitid>Plate 45</unitid> 
-              	 	  </did> 
+                 <did> 
+                     <unittitle>Full Size Details to Fence of the Richard Quay House <geogname>Litchfield, Ct</geogname></unittitle> 
+                   <unitid label='Label'>Plate 45</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	     <unittitle>Fence in front of the Topping Reeves House <geogname>Litchfield, CT</geogname></unittitle> 
-              	 	 <unitid>Plate 46</unitid> 
-              	 	  </did> 
+                 <did> 
+                     <unittitle>Fence in front of the Topping Reeves House <geogname>Litchfield, CT</geogname></unittitle> 
+                   <unitid label='Label'>Plate 46</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Yard Elevation of Fence at Miss Porter's School <geogname>Farmington, CT</geogname></unittitle> 
-              	 	 <unitid>Plate 47</unitid> 
-              	     <note><p>Details the fence of plate 48</p></note>
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Yard Elevation of Fence at Miss Porter's School <geogname>Farmington, CT</geogname></unittitle> 
+                   <unitid label='Label'>Plate 47</unitid> 
+                     <note><p>Details the fence of plate 48</p></note>
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	     <unittitle>Fence at Miss Porter's School <geogname>Farmington, CT</geogname></unittitle> 
-              	 	 <unitid>Plate 48</unitid> 
-              	 	  </did> 
+                 <did> 
+                     <unittitle>Fence at Miss Porter's School <geogname>Farmington, CT</geogname></unittitle> 
+                   <unitid label='Label'>Plate 48</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence in front of the Pierce Perry House now owned by James K. Healy <geogname>Newburyport, MA</geogname></unittitle> 
-              	 	 <unitid>Plate 49</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence in front of the Pierce Perry House now owned by James K. Healy <geogname>Newburyport, MA</geogname></unittitle> 
+                   <unitid label='Label'>Plate 49</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	     <unittitle>Gate and Posts to Cushing Bachman House <geogname>Newburyport, MA</geogname></unittitle> 
-              	 	 <unitid>Plate 50</unitid> 
-              	 	  </did> 
+                 <did> 
+                     <unittitle>Gate and Posts to Cushing Bachman House <geogname>Newburyport, MA</geogname></unittitle> 
+                   <unitid label='Label'>Plate 50</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	     <unittitle>Fence to Cushing Bachman House <geogname>Newburyport, MA</geogname></unittitle> 
-              	 	 <unitid>Plate 51</unitid> 
-              	 	  </did> 
+                 <did> 
+                     <unittitle>Fence to Cushing Bachman House <geogname>Newburyport, MA</geogname></unittitle> 
+                   <unitid label='Label'>Plate 51</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence in front of the Harry Thomas House <geogname>Salem, MA</geogname></unittitle> 
-              	 	 <unitid>Plate 52</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence in front of the Harry Thomas House <geogname>Salem, MA</geogname></unittitle> 
+                   <unitid label='Label'>Plate 52</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Gate and Fence to Garden the Ropes Memorial <geogname>Salem, MA</geogname></unittitle> 
-              	 	 <unitid>Plate 53</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Gate and Fence to Garden the Ropes Memorial <geogname>Salem, MA</geogname></unittitle> 
+                   <unitid label='Label'>Plate 53</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Grape Arbor in Garden Ropes Memorial <geogname>Salem, MA</geogname></unittitle> 
-              	 	 <unitid>Plate 54</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Grape Arbor in Garden Ropes Memorial <geogname>Salem, MA</geogname></unittitle> 
+                   <unitid label='Label'>Plate 54</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence in front of the Pierce Nichols House <geogname>Salem, MA</geogname></unittitle> 
-              	 	 <unitid>Plate 55</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence in front of the Pierce Nichols House <geogname>Salem, MA</geogname></unittitle> 
+                   <unitid label='Label'>Plate 55</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	     <unittitle>Fence in front of the Baldwin Lyman House <geogname>Salem, MA</geogname></unittitle> 
-              	 	 <unitid>Plate 56</unitid> 
-              	 	  </did> 
+                 <did> 
+                     <unittitle>Fence in front of the Baldwin Lyman House <geogname>Salem, MA</geogname></unittitle> 
+                   <unitid label='Label'>Plate 56</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence at 546 Middle Rd., <geogname>Portsmouth, NH</geogname></unittitle> 
-              	 	 <unitid>Plate 57</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence at 546 Middle Rd., <geogname>Portsmouth, NH</geogname></unittitle> 
+                   <unitid label='Label'>Plate 57</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	     <unittitle>Fence at 569 Middle St., <geogname>Portsmouth, NH</geogname></unittitle> 
-              	 	 <unitid>Plate 58</unitid> 
-              	 	  </did> 
+                 <did> 
+                     <unittitle>Fence at 569 Middle St., <geogname>Portsmouth, NH</geogname></unittitle> 
+                   <unitid label='Label'>Plate 58</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>A Solid Wood Fence on the street line of the Larkin Rice House <geogname>Portsmouth, NH</geogname></unittitle> 
-              	 	 <unitid>Plate 59</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>A Solid Wood Fence on the street line of the Larkin Rice House <geogname>Portsmouth, NH</geogname></unittitle> 
+                   <unitid label='Label'>Plate 59</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Elevation of Adjoining Fences 160 Middle Rd., Boardman House <geogname>Portsmouth, NH</geogname></unittitle> 
-              	 	 <unitid>Plate 60</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Elevation of Adjoining Fences 160 Middle Rd., Boardman House <geogname>Portsmouth, NH</geogname></unittitle> 
+                   <unitid label='Label'>Plate 60</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle>Fence on Route 1 Three Miles South of <geogname>Hampton NH</geogname></unittitle> 
-              	 	 <unitid>Plate 61</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle>Fence on Route 1 Three Miles South of <geogname>Hampton NH</geogname></unittitle> 
+                   <unitid label='Label'>Plate 61</unitid> 
+                    </did> 
               </c03>
              
               <c03> 
-              	 <did> 
-              	 	 <unittitle><geogname>Cape Cod, MA</geogname> Fence posts and Fences</unittitle> 
-              	 	 <unitid>Plate 62</unitid> 
-              	 	  </did> 
+                 <did> 
+                   <unittitle><geogname>Cape Cod, MA</geogname> Fence posts and Fences</unittitle> 
+                   <unitid label='Label'>Plate 62</unitid> 
+                    </did> 
               </c03>
             <c03>
                 <did>
                     <unittitle>Gate to Chapin House <geogname>Rochester, NY</geogname></unittitle>
-                    <unitid>No plate number</unitid>
+                    <unitid label='Label'>No plate number</unitid>
                     <note><p>
                         Print is mounted
                     </p></note>
@@ -6859,61 +6859,61 @@
             </c03>
         </c02>
 
-        <c02 level="subseries" id="drawer11">
-            <did>
-                <unittitle>Pioneer Village Museum</unittitle>
-                <physdesc>6 sets of Architectural drawings and 1 stand-alone drawing</physdesc>
-                <physloc>Drawer 11</physloc>
-            </did>
-            <c03>
-                <did>
-                    <unittitle>Altay Store</unittitle>
-                    <unitid>Set 1</unitid>
-                    <physdesc>5 architectural drawings. Size 17in x 26in. All plates measured and drawn by Carl Schmidt</physdesc>
-                </did>                                
-            </c03>
-            <c03>
-                <did>
-                    <unittitle>Clyde Store</unittitle>
-                    <unitid>Set 2</unitid>
-                    <physdesc>6 architectural drawings. Size 18in x 24in. All plates measured and drawn by Carl Schmidt</physdesc>
-                </did>              
-                
-            </c03>
-            <c03>
-                <did>
-                    <unittitle>Carriage and Wagon Museum for Mr &amp; Mrs John Wehle George St., <geogname>Mumford, NY</geogname></unittitle>
-                    <unitid>Set 3</unitid>
-                    <physdesc>7 architectural drawings. All plates measured and drawn by Carl Schmidt</physdesc>
-                </did>
-            </c03>
-            <c03>
-                <did>
-                    <unittitle>Allan Lyter House </unittitle>
-                    <unitid>Set 4</unitid>
-                    <physdesc>10 architectural drawings.  All plates measured and drawn by Carl Schmidt</physdesc>
-                </did>
-            </c03>
-            <c03>
-                <did>
-                    <unittitle>Wehle Museum</unittitle>
-                    <unitid>Set 5</unitid>
-                    <physdesc>12 architectural drawings. Size 37in x 219in. All plates measured and drawn by Carl Schmidt</physdesc>
-                </did>
-            </c03>
-            <c03>
-                <did>
-                    <unittitle>Visitors House</unittitle>
-                    <unitid>Set 6</unitid>
-                    <physdesc>6 architectural drawings. Size 18in x 21in. All plates measured and drawn by Carl Schmidt</physdesc>
-                </did>
-            </c03>
-            <c03>
-                <did>
-                    <unittitle>Cornice to Stone Shop <geogname>Mumford, NY</geogname></unittitle>                    
-                </did>
-            </c03>
-        </c02>
+          <c02 id='drawer11' level='subseries'>
+              <did>
+                  <unittitle>Pioneer Village Museum</unittitle>
+                  <physdesc>6 sets of Architectural drawings and 1 stand-alone drawing</physdesc>
+                  <physloc>Drawer 11</physloc>
+              </did>
+              <c03>
+                  <did>
+                      <unittitle>Altay Store</unittitle>
+                      <unitid label='Label'>Set 1</unitid>
+                      <physdesc>5 architectural drawings. Size 17in x 26in. All plates measured and drawn by Carl Schmidt</physdesc>
+                  </did>                                
+              </c03>
+              <c03>
+                  <did>
+                      <unittitle>Clyde Store</unittitle>
+                      <unitid label='Label'>Set 2</unitid>
+                      <physdesc>6 architectural drawings. Size 18in x 24in. All plates measured and drawn by Carl Schmidt</physdesc>
+                  </did>              
+                  
+              </c03>
+              <c03>
+                  <did>
+                      <unittitle>Carriage and Wagon Museum for Mr &amp; Mrs John Wehle George St., <geogname>Mumford, NY</geogname></unittitle>
+                      <unitid label='Label'>Set 3</unitid>
+                      <physdesc>7 architectural drawings. All plates measured and drawn by Carl Schmidt</physdesc>
+                  </did>
+              </c03>
+              <c03>
+                  <did>
+                      <unittitle>Allan Lyter House </unittitle>
+                      <unitid label='Label'>Set 4</unitid>
+                      <physdesc>10 architectural drawings.  All plates measured and drawn by Carl Schmidt</physdesc>
+                  </did>
+              </c03>
+              <c03>
+                  <did>
+                      <unittitle>Wehle Museum</unittitle>
+                      <unitid label='Label'>Set 5</unitid>
+                      <physdesc>12 architectural drawings. Size 37in x 219in. All plates measured and drawn by Carl Schmidt</physdesc>
+                  </did>
+              </c03>
+              <c03>
+                  <did>
+                      <unittitle>Visitors House</unittitle>
+                      <unitid label='Label'>Set 6</unitid>
+                      <physdesc>6 architectural drawings. Size 18in x 21in. All plates measured and drawn by Carl Schmidt</physdesc>
+                  </did>
+              </c03>
+              <c03>
+                  <did>
+                      <unittitle>Cornice to Stone Shop <geogname>Mumford, NY</geogname></unittitle>                    
+                  </did>
+              </c03>
+          </c02>
           <c02 level="subseries" id="drawer12">
               <did>
                   <unittitle>Pioneer Village Museum</unittitle>
@@ -6945,7 +6945,7 @@
                   </did>
               </c03>
           </c02>
-          <c02 level="subseries" id="drawer13">
+          <c02 id='drawer13' level='subseries'>
               <did>
                   <unittitle>Pioneer Village Museum</unittitle>
                   <physdesc>6 sets of Architectural drawings</physdesc>
@@ -6954,42 +6954,42 @@
               <c03>
                   <did>
                       <unittitle>Samuel Salsbury House <geogname>Holley, NY</geogname></unittitle>
-                      <unitid>Set 1</unitid>
+                      <unitid label='Label'>Set 1</unitid>
                       <physdesc>9 architectural drawings. Size 19.5in x 24in. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>                  
               </c03>
               <c03>
                   <did>
                       <unittitle>The Morgan House</unittitle>
-                      <unitid>Set 2</unitid>
+                      <unitid label='Label'>Set 2</unitid>
                       <physdesc>11 architectural drawings. Size varies. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>                  
               </c03>
               <c03>
                   <did>
                       <unittitle>The Print Shop</unittitle>
-                      <unitid>Set 3</unitid>
+                      <unitid label='Label'>Set 3</unitid>
                       <physdesc>714 architectural drawings. Size varies. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>                  
               </c03>
               <c03>
                   <did>
                       <unittitle>Joseph Thompson Tavern Chili Rd., &amp; Mumford Riga Rd., <geogname>Riga, NY</geogname></unittitle>
-                      <unitid>Set 4</unitid>
+                      <unitid label='Label'>Set 4</unitid>
                       <physdesc>14 architectural drawings. Size varies. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>                  
               </c03>
               <c03>
                   <did>
                       <unittitle>Quaker Church</unittitle>
-                      <unitid>Set 5</unitid>
+                      <unitid label='Label'>Set 5</unitid>
                       <physdesc>8 architectural drawings. Size 20in x 25in and 18in x 20in. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>                  
               </c03>
               <c03>
                   <did>
                       <unittitle>Ward Hovey House </unittitle>
-                      <unitid>Set 6</unitid>
+                      <unitid label='Label'>Set 6</unitid>
                       <physdesc>6 architectural drawings. Size varies. All plates measured and drawn by Carl Schmidt</physdesc>
                   </did>                  
               </c03>
