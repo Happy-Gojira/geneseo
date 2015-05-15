@@ -29,7 +29,7 @@
                             <h1>Special Colections at Milne Library</h1>
                             <h2>The Carl Schmidt Collection in Historic Architecture</h2>                         
                         </div>
-                        <span><h3><a href="index.html">Click here to search the Schmidt Collection</a></h3></span>
+                        <span><h3><a href="index.html">Click Here to Search the Schmidt Collection</a></h3></span>
                     </header>
                     <aside class="left">
                         <xsl:call-template name="toc"/>
