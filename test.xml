@@ -627,8 +627,8 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> Whitney-Raymor House, Lincoln Rd., Wayne County</field>
-        <field name="geolocation">Wayne County</field>
+        <field name="subject"> Whitney-Raymor House, Lincoln Rd., Wayne County, NY</field>
+        <field name="geolocation">Wayne County, NY</field>
         <field name="label">SH-2D-SCHMIDT-35</field>
         <field name="location">Drawer B</field>
         <field name="url">images/Drawing35.jpg</field>
@@ -2899,9 +2899,9 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Stencil Cornice in "Leroy" Room Gould Drake House Wayne Co.,
+        <field name="subject"> Stencil Cornice in "Leroy" Room Gould Drake House Wayne Coounty,
             NY</field>
-        <field name="geolocation">Wayne Co., NY</field>
+        <field name="geolocation">Wayne Coounty, NY</field>
         <field name="label">Plate 100</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -2909,9 +2909,9 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Wall Stencilling in "Leroy" Room Gould Drake House Wayne Co.,
+        <field name="subject"> Wall Stencilling in "Leroy" Room Gould Drake House Wayne County,
             NY</field>
-        <field name="geolocation">Wayne Co., NY</field>
+        <field name="geolocation">Wayne County, NY</field>
         <field name="label">Plate 101</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -2919,9 +2919,9 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Stencilling Under Window in "Leroy" Room Gould Drake House Wayne Co.,
-            NY</field>
-        <field name="geolocation">Wayne Co., NY</field>
+        <field name="subject"> Stencilling Under Window in "Leroy" Room Gould Drake House Wayne
+            County, NY</field>
+        <field name="geolocation">Wayne County, NY</field>
         <field name="label">Plate 102</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -2929,8 +2929,8 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Bedroom "A" in Gould Drake House Wayne Co., NY</field>
-        <field name="geolocation">Wayne Co., NY</field>
+        <field name="subject"> Bedroom "A" in Gould Drake House Wayne County, NY</field>
+        <field name="geolocation">Wayne County, NY</field>
         <field name="label">Plate 103</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -2938,8 +2938,9 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Stencils in Bedroom "A" Room Gould Drake House Wayne Co., NY</field>
-        <field name="geolocation">Wayne Co., NY</field>
+        <field name="subject"> Stencils in Bedroom "A" Room Gould Drake House Wayne County,
+            NY</field>
+        <field name="geolocation">Wayne County, NY</field>
         <field name="label">Plate 104</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -2947,9 +2948,9 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Stencilling in First Floor Room Gould Drake House Wayne Co.,
+        <field name="subject"> Stencilling in First Floor Room Gould Drake House Wayne County,
             NY</field>
-        <field name="geolocation">Wayne Co., NY</field>
+        <field name="geolocation">Wayne County, NY</field>
         <field name="label">Plate 105</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -2957,9 +2958,9 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Stencilled Cornice in First Floor Room Gould Drake House Wayne Co.,
-            NY</field>
-        <field name="geolocation">Wayne Co., NY</field>
+        <field name="subject"> Stencilled Cornice in First Floor Room Gould Drake House Wayne
+            County, NY</field>
+        <field name="geolocation">Wayne County, NY</field>
         <field name="label">Plate 106</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -2967,8 +2968,8 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Cornice Stencil in Alcove Gould Drake House Wayne Co., NY</field>
-        <field name="geolocation">Wayne Co., NY</field>
+        <field name="subject"> Cornice Stencil in Alcove Gould Drake House Wayne County, NY</field>
+        <field name="geolocation">Wayne County, NY</field>
         <field name="label">Plate 107</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -2976,8 +2977,8 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Stencilling in Alcove Gould Drake House Wayne Co., NY</field>
-        <field name="geolocation">Wayne Co., NY</field>
+        <field name="subject"> Stencilling in Alcove Gould Drake House Wayne County, NY</field>
+        <field name="geolocation">Wayne County, NY</field>
         <field name="label">Plate 108</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -2985,8 +2986,8 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Stencilling in Alcove Gould Drake House Wayne Co., NY</field>
-        <field name="geolocation">Wayne Co., NY</field>
+        <field name="subject"> Stencilling in Alcove Gould Drake House Wayne County, NY</field>
+        <field name="geolocation">Wayne County, NY</field>
         <field name="label">Plate 109</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -2994,8 +2995,8 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Stencils in the Gould Drake House Wayne Co., NY</field>
-        <field name="geolocation">Wayne Co., NY</field>
+        <field name="subject"> Stencils in the Gould Drake House Wayne County, NY</field>
+        <field name="geolocation">Wayne County, NY</field>
         <field name="label">Plate 110</field>
         <field name="location">Drawer 2</field>
     </doc>
@@ -3523,7 +3524,8 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Cobblestone Masonry</field>
-        <field name="subject"> Windows Lintels in Wayne County</field>
+        <field name="subject"> Windows Lintels in Wayne County, NY</field>
+        <field name="geolocation">Wayne County, NY</field>
         <field name="label">Plate 41</field>
         <field name="location">Drawer 2</field>
     </doc>
