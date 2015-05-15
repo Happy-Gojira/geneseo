@@ -437,7 +437,7 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> Shadbolt-Krenzer House or Darius Shadbold House, Quaker Rd.,
+        <field name="subject"> Shadbolt-Krenzer House or Darius Shadbolt House, Quaker Rd.,
             Scottsville, NY </field>
         <field name="geolocation">Scottsville, NY</field>
         <field name="label">SH-2D-SCHMIDT-11</field>
@@ -588,8 +588,8 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> House at Farmington</field>
-        <field name="geolocation">Farmington</field>
+        <field name="subject"> House at Farmington, NY</field>
+        <field name="geolocation">Farmington, NY</field>
         <field name="label">SH-2D-SCHMIDT-30</field>
         <field name="location">Drawer B</field>
         <field name="url">images/Drawing30.jpg</field>
@@ -788,7 +788,7 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> Motgomery House</field>
+        <field name="subject"> Montgomery House</field>
         <field name="label">SH-2D-SCHMIDT-56</field>
         <field name="location">Drawer C</field>
         <field name="url">images/Drawing56.jpg</field>
@@ -873,7 +873,7 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> The Wetherspoon House, Rochester, NY</field>
+        <field name="subject"> The Witherspoon House, Rochester, NY</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="label">SH-2D-SCHMIDT-67</field>
         <field name="location">Drawer D</field>
@@ -909,7 +909,7 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> Orrinch Stone House</field>
+        <field name="subject"> Orringh Stone House</field>
         <field name="label">SH-2D-SCHMIDT-72</field>
         <field name="location">Drawer D</field>
         <field name="url">images/Drawing72.jpg</field>
@@ -924,7 +924,7 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> Tradd Stree, Charleston, SC</field>
+        <field name="subject"> Tradd Street, Charleston, SC</field>
         <field name="geolocation">Charleston, SC</field>
         <field name="label">SH-2D-SCHMIDT-74</field>
         <field name="location">Drawer D</field>
@@ -1028,7 +1028,7 @@
     </doc>
     <doc>
         <field name="subject">Architectural drawings</field>
-        <field name="subject"> Whitherspoon House, Rochester, NY</field>
+        <field name="subject"> Witherspoon House, 25 Clarissa St., Rochester, NY</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="label">SH-2D-SCHMIDT-87</field>
         <field name="location">Drawer D</field>
@@ -1337,7 +1337,7 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Architectural Mouldings</field>
-        <field name="subject"> Niche in Stari Hall in the Isaac Hills house, Plymouth Ave South
+        <field name="subject"> Niche in Stair Hall in the Isaac Hills house, Plymouth Ave South
             Rochester, NY</field>
         <field name="geolocation">South Rochester, NY</field>
         <field name="label">Plate 14</field>
@@ -2573,7 +2573,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Restoration</field>
-        <field name="subject"> Fireplace Side of Kitcher &amp; East End Elevation Thompson Trading
+        <field name="subject"> Fireplace Side of Kitchen &amp; East End Elevation Thompson Trading
             Post now in the Museum of the Genesee Country Mumford, NY</field>
         <field name="geolocation">Mumford, NY</field>
         <field name="label">Plate 69</field>
@@ -3103,7 +3103,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Cobblestone Masonry</field>
-        <field name="subject"> Lockwood Alhar House, Culver Rd., Rochester, NY &amp; Schanck
+        <field name="subject"> Lockwood Alhart House, Culver Rd., Rochester, NY &amp; Schanck
             McDonald House Rochester, NY</field>
         <field name="geolocation">Rochester, NY</field>
         <field name="geolocation">Rochester, NY</field>
@@ -3338,7 +3338,7 @@
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Cobblestone Masonry &amp; Restoration</field>
         <field name="subject"> Cobblestone Masonry</field>
-        <field name="subject"> Williams Baauer House Monroe County, NY &amp; District School No.8
+        <field name="subject"> Williams Bauer House Monroe County, NY &amp; District School No.8
             Hamlin, NY</field>
         <field name="geolocation">Monroe County, NY</field>
         <field name="geolocation">Hamlin, NY</field>
@@ -4227,8 +4227,8 @@
     <doc>
         <field name="subject">Measured Drawings and Prints</field>
         <field name="subject"> Colonial and Postcolonial Details</field>
-        <field name="subject"> Opening beterrn Parlors Sliding Doors, Allen Ayraults House, now the
-            Big Tree Inn Geneseo, NY</field>
+        <field name="subject"> Allen Ayraults House, built in 1833, now the Big Tree Inn Geneseo,
+            NY</field>
         <field name="geolocation">Geneseo, NY</field>
         <field name="label">Plate 46</field>
         <field name="location">Drawer 3</field>
@@ -6568,8 +6568,8 @@
         <field name="subject"> Greek Revival Details</field>
         <field name="subject"> Plates: Greek Revival Details</field>
         <field name="subject"> Elevation of Entrance to the Charles Izor Residence Waterbury,
-            VA</field>
-        <field name="geolocation">Waterbury, VA</field>
+            CT</field>
+        <field name="geolocation">Waterbury, CT</field>
         <field name="label">Plate 96</field>
         <field name="location">Drawer 7</field>
     </doc>
@@ -6578,8 +6578,8 @@
         <field name="subject"> Greek Revival Details</field>
         <field name="subject"> Plates: Greek Revival Details</field>
         <field name="subject"> Full Size Details from the Charles Izor Residence Waterbury,
-            VA</field>
-        <field name="geolocation">Waterbury, VA</field>
+            CT</field>
+        <field name="geolocation">Waterbury, CT</field>
         <field name="label">Plate 97</field>
         <field name="location">Drawer 7</field>
     </doc>

@@ -706,7 +706,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>Shadbolt-Krenzer House or Darius Shadbold House, Quaker Rd., <geogname>Scottsville, NY</geogname>
+                            <unittitle label='Subject'>Shadbolt-Krenzer House or Darius Shadbolt House, Quaker Rd., <geogname>Scottsville, NY</geogname>
                             </unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-11</unitid>
                             <physloc label='Location'>Drawer A</physloc>
@@ -876,7 +876,7 @@
                     <c03>
                         <did>
                             <unittitle label='Subject'>House at
-                                <geogname>Farmington</geogname></unittitle>
+                                <geogname>Farmington, NY</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-30</unitid>
                             <physloc label='Location'>Drawer B</physloc>
                         <dao href='images/Drawing30.jpg'/></did>
@@ -1099,7 +1099,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>Motgomery House</unittitle>
+                            <unittitle label='Subject'>Montgomery House</unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-56</unitid>
                             <physloc label='Location'>Drawer C</physloc>
                         <dao href='images/Drawing56.jpg'/></did>
@@ -1196,7 +1196,7 @@
                     </did>
                     <c03>
                         <did>
-                            <unittitle label='Subject'>The Wetherspoon House, <geogname>Rochester,
+                            <unittitle label='Subject'>The Witherspoon House, <geogname>Rochester,
                                     NY</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-67</unitid>
                             <physloc label='Location'>Drawer D</physloc>
@@ -1237,7 +1237,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>Orrinch Stone House</unittitle>
+                            <unittitle label='Subject'>Orringh Stone House</unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-72</unitid>
                             <physloc label='Location'>Drawer D</physloc>
                         <dao href='images/Drawing72.jpg'/></did>
@@ -1253,7 +1253,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>Tradd Stree,  <geogname>Charleston, SC</geogname></unittitle>
+                            <unittitle label='Subject'>Tradd Street,  <geogname>Charleston, SC</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-74</unitid>
                             <physloc label='Location'>Drawer D</physloc>
                         <dao href='images/Drawing74.jpg'/></did>
@@ -1362,8 +1362,7 @@
 
                     <c03>
                         <did>
-                            <unittitle label='Subject'>Whitherspoon House, <geogname>Rochester,
-                                    NY</geogname></unittitle>
+                            <unittitle label='Subject'>Witherspoon House,  25 Clarissa St., <geogname>Rochester, NY</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-87</unitid>
                             <physloc label='Location'>Drawer D</physloc>
                         <dao href='images/Drawing87.jpg'/></did>
@@ -1670,7 +1669,7 @@
             </c03>
             <c03>
                 <did>
-                    <unittitle>Niche in Stari Hall in the Isaac Hills house, Plymouth Ave <geogname>South Rochester, NY</geogname></unittitle>
+                    <unittitle>Niche in Stair Hall in the Isaac Hills house, Plymouth Ave <geogname>South Rochester, NY</geogname></unittitle>
                     <unitid label='Label'>Plate 14</unitid>
                 </did>
             </c03>
@@ -2501,7 +2500,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Fireplace Side of Kitcher &amp; East End Elevation Thompson Trading Post now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
+                        <unittitle>Fireplace Side of Kitchen &amp; East End Elevation Thompson Trading Post now in the Museum of the Genesee Country <geogname>Mumford, NY</geogname></unittitle>
                         <unitid label='Label'>Plate 69</unitid>
                     </did>
                 </c04>
@@ -2827,7 +2826,7 @@
                 </did>
                 <c04>
                     <did>
-                        <unittitle>Lockwood Alhar House, Culver Rd., <geogname>Rochester, NY</geogname> &amp; Schanck McDonald House <geogname>Rochester, NY</geogname></unittitle>
+                        <unittitle>Lockwood Alhart House, Culver Rd., <geogname>Rochester, NY</geogname> &amp; Schanck McDonald House <geogname>Rochester, NY</geogname></unittitle>
                         <unitid label='Label'>Plate 1</unitid>
                     </did>
                 </c04>
@@ -2959,7 +2958,7 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Williams Baauer House <geogname>Monroe County, NY</geogname> &amp; District School No.8 <geogname>Hamlin, NY</geogname></unittitle>
+                        <unittitle>Williams Bauer House <geogname>Monroe County, NY</geogname> &amp; District School No.8 <geogname>Hamlin, NY</geogname></unittitle>
                         <unitid label='Label'>Plate 23</unitid>
                     </did>
                 </c04>
@@ -3608,7 +3607,7 @@
            
             <c03> 
                <did> 
-                   <unittitle>Opening beterrn Parlors Sliding Doors, Allen Ayraults House, now the Big Tree Inn <geogname>Geneseo, NY</geogname></unittitle> 
+                   <unittitle>Allen Ayraults House, built in 1833, now the Big Tree Inn <geogname>Geneseo, NY</geogname></unittitle> 
                  <unitid label='Label'>Plate 46</unitid> 
                   </did> 
             </c03>
@@ -5388,13 +5387,13 @@
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Elevation of Entrance to the Charles Izor Residence <geogname>Waterbury, VA</geogname></unittitle>
+                        <unittitle>Elevation of Entrance to the Charles Izor Residence <geogname>Waterbury, CT</geogname></unittitle>
                         <unitid label='Label'>Plate 96</unitid>
                     </did>
                 </c04>
                 <c04>
                     <did>
-                        <unittitle>Full Size Details from the Charles Izor Residence <geogname>Waterbury, VA</geogname></unittitle>
+                        <unittitle>Full Size Details from the Charles Izor Residence <geogname>Waterbury, CT</geogname></unittitle>
                         <unitid label='Label'>Plate 97</unitid>
                     </did>
                 </c04>
