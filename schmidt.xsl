@@ -276,7 +276,10 @@
         <xsl:choose>
             <xsl:when test="@id='drawer1'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
-                <div><xsl:apply-templates select="c03"/></div>
+                <div class="content">
+                    <input type="button" class="dropdown" value="Click to show/hide items"/>
+                <div class="hide"><xsl:apply-templates select="c03"/></div>
+                </div>
             </xsl:when>
             <xsl:when test="@id='drawer2'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
@@ -284,11 +287,17 @@
             </xsl:when>
             <xsl:when test="@id='drawer3'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
-                <div><xsl:apply-templates select="c03"/></div>
+                <div class="content">
+                    <input type="button" class="dropdown" value="Click to show/hide items"/>
+                    <div class="hide"><xsl:apply-templates select="c03"/></div>
+                </div>
             </xsl:when>
             <xsl:when test="@id='drawer4'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
-                <div><xsl:apply-templates select="c03"/></div>
+                <div class="content">
+                    <input type="button" class="dropdown" value="Click to show/hide items"/>
+                    <div class="hide"><xsl:apply-templates select="c03"/></div>
+                </div>
             </xsl:when>
             <xsl:when test="@id='drawer5'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
@@ -297,7 +306,7 @@
             <xsl:when test="@id='drawer6'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
                 <div><xsl:apply-templates select="c03"/></div>
-            </xsl:when>
+            </xsl:when> 
             <xsl:when test="@id='drawer7'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
                 <div><xsl:apply-templates select="c03"/></div>
@@ -316,15 +325,24 @@
             </xsl:when>
             <xsl:when test="@id='drawer11'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
-                <div><xsl:apply-templates select="c03"/></div>
+                <div class="content">
+                    <input type="button" class="dropdown" value="Click to show/hide items"/>
+                    <div class="hide"><xsl:apply-templates select="c03"/></div>
+                </div>
             </xsl:when>
             <xsl:when test="@id='drawer12'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
-                <div><xsl:apply-templates select="c03"/></div>
+                <div class="content">
+                    <input type="button" class="dropdown" value="Click to show/hide items"/>
+                    <div class="hide"><xsl:apply-templates select="c03"/></div>
+                </div>
             </xsl:when>
             <xsl:when test="@id='drawer13'">
                 <h4><xsl:value-of select="did/physloc"/>: <xsl:value-of select="did/unittitle"/></h4>
-                <div><xsl:apply-templates select="c03"/></div>
+                <div class="content">
+                    <input type="button" class="dropdown" value="Click to show/hide items"/>
+                    <div class="hide"><xsl:apply-templates select="c03"/></div>
+                </div>
             </xsl:when>
             
         </xsl:choose>
@@ -333,16 +351,45 @@
     
     <!-- Template for c03-->
     <xsl:template match="c03">
-        <div class="item"><xsl:if test="did/unittitle"><h4 class="indentc03"><xsl:value-of select="did/unittitle"/> <xsl:value-of select="did/unitdate"/></h4></xsl:if>
-        <xsl:if test="did/unitid"><p class="indentc03"><xsl:value-of select="did/unitid/@label"/>: <xsl:value-of select="did/unitid"/> </p></xsl:if>
-        <xsl:if test="did/physloc"><p class="indentc03"><xsl:value-of select="did/physloc/@label"/>: <xsl:value-of select="did/physloc"/></p></xsl:if>
-        <xsl:if test="did/container"><p class="indentc03"><xsl:value-of select="did/container/@label"/>: <xsl:value-of select="did/container"/></p></xsl:if>
-        <xsl:if test="scopecontent"><p class="indentc03">Scope and Content: <xsl:value-of select="scopecontent"/></p></xsl:if>
-        <xsl:if test="note">
-            <xsl:for-each select="note">
-                <p class="indentc03"><xsl:apply-templates/></p>
-            </xsl:for-each>
-        </xsl:if></div>
+        <div class="item indentc03">
+            <xsl:if test="did/unittitle"><h4>Subject: <xsl:value-of select="did/unittitle"/> <xsl:value-of select="did/unitdate"/></h4></xsl:if>
+            <xsl:if test="did/unitid"><p><xsl:value-of select="did/unitid/@label"/>: <xsl:value-of select="did/unitid"/> </p></xsl:if>
+            <xsl:if test="did/physloc"><p><xsl:value-of select="did/physloc/@label"/>: <xsl:value-of select="did/physloc"/></p></xsl:if>
+            <xsl:if test="did/container"><p><xsl:value-of select="did/container/@label"/>: <xsl:value-of select="did/container"/></p></xsl:if>
+            <xsl:if test="did/physdesc"><p>Description: <xsl:value-of select="did/physdesc"/></p></xsl:if>    
+            <xsl:if test="scopecontent"><p>Scope and Content: <xsl:value-of select="scopecontent"/></p></xsl:if>
+            <xsl:if test="did/note">
+                <xsl:for-each select="did/note">
+                    <p><xsl:apply-templates/></p>
+                </xsl:for-each>
+            </xsl:if>
+        </div>
+        <xsl:if test="c04">
+            <div class="content">
+                <input type="button" class="dropdown" value="Click to show/hide items"/>
+                <div class="hide"><xsl:apply-templates select="c04"/></div>
+            </div>
+        </xsl:if>
+        
+    </xsl:template>
+    
+    <!-- Template for c04 -->
+    <xsl:template match="c04">
+        <div class="item indentc04">
+            <xsl:if test="did/unittitle"><h4>Subject: <xsl:value-of select="did/unittitle"/> <xsl:value-of select="did/unitdate"/></h4></xsl:if>
+            <xsl:if test="did/unitid"><p><xsl:value-of select="did/unitid/@label"/>: <xsl:value-of select="did/unitid"/> </p></xsl:if>
+            <xsl:if test="did/physdesc"><p>Description: <xsl:value-of select="did/physdesc"/></p></xsl:if>
+            <xsl:if test="did/physloc"><p><xsl:value-of select="did/physloc/@label"/>: <xsl:value-of select="did/physloc"/></p></xsl:if>
+            <xsl:if test="did/container"><p><xsl:value-of select="did/container/@label"/>: <xsl:value-of select="did/container"/></p></xsl:if>
+            <xsl:if test="scopecontent"><p>Scope and Content: <xsl:value-of select="scopecontent"/></p></xsl:if>
+            <xsl:if test="did/note">
+                <xsl:for-each select="did/note">
+                    <p>Note: <xsl:apply-templates/></p>
+                </xsl:for-each>
+            </xsl:if>
+  
+        </div>
+        
     </xsl:template>
     
 </xsl:stylesheet>
