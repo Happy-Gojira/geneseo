@@ -26,7 +26,7 @@
                         </div>
                         
                         <div id="headerRight">
-                            <h1>Special Colections at Milne Library</h1>
+                            <h1>Special Collections at Milne Library</h1>
                             <h2>The Carl Schmidt Collection in Historic Architecture</h2>                         
                         </div>
                         <span><h3><a href="index.html">Click Here to Search the Schmidt Collection</a></h3></span>
@@ -117,7 +117,7 @@
             <h4><xsl:value-of select="label"/> <xsl:value-of select="item"/></h4>
         </xsl:for-each>
         <ul>
-            <li>Contact Informtion: <a href="http://www.geneseo.edu/library/staff-directory">Special Collections Librarian</a></li>
+            <li>Contact Information: <a href="http://www.geneseo.edu/library/staff-directory">Special Collections Librarian</a></li>
             <li>Milne Library, SUNY Geneseo.</li>
             
         </ul>
