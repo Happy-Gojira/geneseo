@@ -38,7 +38,6 @@
     <did>
       <head>Overview of the Records</head>
       <origination label="Creator"><persname normal="Schmidt, Carl" encodinganalog="100">Carl F. Schmidt</persname></origination>
-      <unittitle label=""></unittitle>
       <physdesc label="Description">68 archival boxes and 109 drawings</physdesc>
       <repository label="Repository">SUNY Geneseo</repository>
       <abstract label="Abstract">Carl F. Schmidt (1894-1988) was a local architect who had a keen interest in historic preservation and conservation. The Schmidt Collection includes notes, manuscripts, slides, photographs, pencil sketches and measured drawings created and collected by Schmidt in preparing his many books on historical architecture, which focus primarily on homes in the Genesee Valley area.</abstract>
@@ -815,7 +814,7 @@
                             <unittitle label='Subject'>Issac Cox House, River Rd., <geogname>Scottsville, NY</geogname></unittitle>
                             <unitid label='Label'>SH-2D-SCHMIDT-23</unitid>
                             <physloc label='Location'>Drawer B</physloc>
-                        <dao href='images/Drawing23.jpg'/></did>
+                            <dao href='images/Drawing23.jpg'/></did>
                     </c03>
 
                     <c03>
